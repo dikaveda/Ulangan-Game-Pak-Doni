@@ -1,0 +1,51 @@
+using UnityEngine;
+
+public class GameManager : MonoBehaviour
+{
+    public int totalKoin;
+    private int koinTerkumpul = 0;
+    private int jumlahZombieMati = 0;
+
+    void Start()
+    {
+        totalKoin = GameObject.FindGameObjectsWithTag("Koin").Length;
+    }
+
+    void SaatZombieMati(Enemy zombie)
+    {
+        jumlahZombieMati++;
+        Debug.Log("GameManager dengar event. Zombie mati: " + jumlahZombieMati + " (" + zombie.name + ")");
+    }
+
+    public void AmbilKoin()
+    {
+        koinTerkumpul++;
+        if (koinTerkumpul == totalKoin)
+        {
+            Menang();
+        }
+    }
+
+    void Menang()
+    {
+        Debug.Log("KAMU MENANG!");
+    }
+    private void OnEnable()
+    {
+        // Mendaftar sebagai penerima event
+        Enemy.OnZombieMati += SaatZombieMati;
+    }
+
+    private void OnDisable()
+    {
+        // Melepas pendaftaran saat object dinonaktifkan/hancur agar tidak memicu memory leak
+        Enemy.OnZombieMati -= SaatZombieMati;
+    }
+
+    void OnGUI()
+    {
+        GUI.skin.label.fontSize = 22;
+        GUI.Label(new Rect(16, 16, 480, 36), "Koin: " + koinTerkumpul + " / " + totalKoin);
+        GUI.Label(new Rect(16, 52, 480, 36), "Zombie mati: " + jumlahZombieMati);
+    }
+}
