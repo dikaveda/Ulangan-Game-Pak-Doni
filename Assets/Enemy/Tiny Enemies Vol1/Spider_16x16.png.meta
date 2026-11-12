@@ -1,0 +1,3523 @@
+fileFormatVersion: 2
+guid: 2a3e9b9d53c88414bb362327dd5fe1ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5525767878536719843
+    second: Spider_16x16_0
+  - first:
+      213: -7496308306789887105
+    second: Spider_16x16_1
+  - first:
+      213: -1205220476590020893
+    second: Spider_16x16_2
+  - first:
+      213: 7636937057527274505
+    second: Spider_16x16_3
+  - first:
+      213: -6224029872559826996
+    second: Spider_16x16_4
+  - first:
+      213: 3273393844584708026
+    second: Spider_16x16_5
+  - first:
+      213: -6191924654331254225
+    second: Spider_16x16_6
+  - first:
+      213: -6586003390533932942
+    second: Spider_16x16_7
+  - first:
+      213: -4549600973639260691
+    second: Spider_16x16_8
+  - first:
+      213: 8029409280600284608
+    second: Spider_16x16_9
+  - first:
+      213: -3355139917832475368
+    second: Spider_16x16_10
+  - first:
+      213: 6001781009728107404
+    second: Spider_16x16_11
+  - first:
+      213: -2416013537204951658
+    second: Spider_16x16_12
+  - first:
+      213: 505022975405905643
+    second: Spider_16x16_13
+  - first:
+      213: -1293380227957509359
+    second: Spider_16x16_14
+  - first:
+      213: 1295823473836835561
+    second: Spider_16x16_15
+  - first:
+      213: -4319520650616010653
+    second: Spider_16x16_16
+  - first:
+      213: -2890449220008088029
+    second: Spider_16x16_17
+  - first:
+      213: -3181844924456946767
+    second: Spider_16x16_18
+  - first:
+      213: 5062316485047810642
+    second: Spider_16x16_19
+  - first:
+      213: -353629557306765294
+    second: Spider_16x16_20
+  - first:
+      213: -3939480423912554354
+    second: Spider_16x16_21
+  - first:
+      213: 7559170705309192246
+    second: Spider_16x16_22
+  - first:
+      213: -8947537786762065202
+    second: Spider_16x16_23
+  - first:
+      213: 3589974835668038830
+    second: Spider_16x16_24
+  - first:
+      213: 9051170794417749911
+    second: Spider_16x16_25
+  - first:
+      213: 7636232259258695744
+    second: Spider_16x16_26
+  - first:
+      213: 299231374492034015
+    second: Spider_16x16_27
+  - first:
+      213: -6889477302778484584
+    second: Spider_16x16_28
+  - first:
+      213: -6659483594637353632
+    second: Spider_16x16_29
+  - first:
+      213: 4846838739344176651
+    second: Spider_16x16_30
+  - first:
+      213: 1344086449745325822
+    second: Spider_16x16_31
+  - first:
+      213: -4062620634873044838
+    second: Spider_16x16_32
+  - first:
+      213: -4247037584263721750
+    second: Spider_16x16_33
+  - first:
+      213: 7998569592185766874
+    second: Spider_16x16_34
+  - first:
+      213: -1884545083994660204
+    second: Spider_16x16_35
+  - first:
+      213: 9024250468123541898
+    second: Spider_16x16_36
+  - first:
+      213: -5723734864693976012
+    second: Spider_16x16_37
+  - first:
+      213: -2576472796633025229
+    second: Spider_16x16_38
+  - first:
+      213: -7858024945176774141
+    second: Spider_16x16_39
+  - first:
+      213: -2321904484188276822
+    second: Spider_16x16_40
+  - first:
+      213: -5129679507563112734
+    second: Spider_16x16_41
+  - first:
+      213: -2504637124946876492
+    second: Spider_16x16_42
+  - first:
+      213: 6396809430355807824
+    second: Spider_16x16_43
+  - first:
+      213: 4700997086272755377
+    second: Spider_16x16_44
+  - first:
+      213: -860705001667956544
+    second: Spider_16x16_45
+  - first:
+      213: -1759070896619509154
+    second: Spider_16x16_46
+  - first:
+      213: -4643970745256571609
+    second: Spider_16x16_47
+  - first:
+      213: -9121814577949579379
+    second: Spider_16x16_48
+  - first:
+      213: -6491862519454857164
+    second: Spider_16x16_49
+  - first:
+      213: 7400548576769179364
+    second: Spider_16x16_50
+  - first:
+      213: 1711509910919769809
+    second: Spider_16x16_51
+  - first:
+      213: 5222967979775857153
+    second: Spider_16x16_52
+  - first:
+      213: 2592570924808391004
+    second: Spider_16x16_53
+  - first:
+      213: 235482934572832057
+    second: Spider_16x16_54
+  - first:
+      213: -4420797808364273284
+    second: Spider_16x16_55
+  - first:
+      213: 3577389119077063112
+    second: Spider_16x16_56
+  - first:
+      213: 485755013752612965
+    second: Spider_16x16_57
+  - first:
+      213: 8210822935237818158
+    second: Spider_16x16_58
+  - first:
+      213: 8842131420072817665
+    second: Spider_16x16_59
+  - first:
+      213: -3135625694126509834
+    second: Spider_16x16_60
+  - first:
+      213: -3257820383969106629
+    second: Spider_16x16_61
+  - first:
+      213: 6229523723573844774
+    second: Spider_16x16_62
+  - first:
+      213: -7160792655376075818
+    second: Spider_16x16_63
+  - first:
+      213: -6809904334245379518
+    second: Spider_16x16_64
+  - first:
+      213: 7037028109658529235
+    second: Spider_16x16_65
+  - first:
+      213: 2713496088664894577
+    second: Spider_16x16_66
+  - first:
+      213: -766108146154653358
+    second: Spider_16x16_67
+  - first:
+      213: -9048014825541832360
+    second: Spider_16x16_68
+  - first:
+      213: 4943115066442668936
+    second: Spider_16x16_69
+  - first:
+      213: -7979711875378854365
+    second: Spider_16x16_70
+  - first:
+      213: -1839502696862859419
+    second: Spider_16x16_71
+  - first:
+      213: -537599960938382088
+    second: Spider_16x16_72
+  - first:
+      213: -6754868243628176291
+    second: Spider_16x16_73
+  - first:
+      213: -6220120577769463058
+    second: Spider_16x16_74
+  - first:
+      213: -3015813366299389320
+    second: Spider_16x16_75
+  - first:
+      213: 2259984778750236001
+    second: Spider_16x16_76
+  - first:
+      213: -1186390880850105217
+    second: Spider_16x16_77
+  - first:
+      213: -5195793877452729315
+    second: Spider_16x16_78
+  - first:
+      213: -8843775954525106417
+    second: Spider_16x16_79
+  - first:
+      213: 4935114852577988596
+    second: Spider_16x16_80
+  - first:
+      213: -7863751360082100935
+    second: Spider_16x16_81
+  - first:
+      213: 4012797099197520504
+    second: Spider_16x16_82
+  - first:
+      213: -4790302159989902354
+    second: Spider_16x16_83
+  - first:
+      213: 2538350708849305594
+    second: Spider_16x16_84
+  - first:
+      213: 3432137706097306254
+    second: Spider_16x16_85
+  - first:
+      213: -3613217292921522606
+    second: Spider_16x16_86
+  - first:
+      213: 9192420319924669876
+    second: Spider_16x16_87
+  - first:
+      213: 9161344628900088985
+    second: Spider_16x16_88
+  - first:
+      213: -2198691681780435116
+    second: Spider_16x16_89
+  - first:
+      213: -1025874755490754153
+    second: Spider_16x16_90
+  - first:
+      213: 43424091624707991
+    second: Spider_16x16_91
+  - first:
+      213: -8161003590421287713
+    second: Spider_16x16_92
+  - first:
+      213: -8097403949472275312
+    second: Spider_16x16_93
+  - first:
+      213: -4024631191468375023
+    second: Spider_16x16_94
+  - first:
+      213: -1551297686058673733
+    second: Spider_16x16_95
+  - first:
+      213: -7329730902108966440
+    second: Spider_16x16_96
+  - first:
+      213: 4972746516362412663
+    second: Spider_16x16_97
+  - first:
+      213: 747969181531732130
+    second: Spider_16x16_98
+  - first:
+      213: 879437622512755952
+    second: Spider_16x16_99
+  - first:
+      213: 2106802385183694347
+    second: Spider_16x16_100
+  - first:
+      213: 8783714486377118638
+    second: Spider_16x16_101
+  - first:
+      213: -5306908496921684545
+    second: Spider_16x16_102
+  - first:
+      213: -5237763176205058218
+    second: Spider_16x16_103
+  - first:
+      213: -1517063670744824747
+    second: Spider_16x16_104
+  - first:
+      213: 6551067781235711022
+    second: Spider_16x16_105
+  - first:
+      213: -3131437857356384676
+    second: Spider_16x16_106
+  - first:
+      213: -1657371693387460938
+    second: Spider_16x16_107
+  - first:
+      213: -3895119606487590910
+    second: Spider_16x16_108
+  - first:
+      213: 256001823452725034
+    second: Spider_16x16_109
+  - first:
+      213: -6886957116755316414
+    second: Spider_16x16_110
+  - first:
+      213: 717851123831307782
+    second: Spider_16x16_111
+  - first:
+      213: 564085080261974020
+    second: Spider_16x16_112
+  - first:
+      213: -3733652461941486098
+    second: Spider_16x16_113
+  - first:
+      213: 6057274437454378102
+    second: Spider_16x16_114
+  - first:
+      213: -8010126230306246429
+    second: Spider_16x16_115
+  - first:
+      213: -6749468921128571996
+    second: Spider_16x16_116
+  - first:
+      213: 3900050051793141149
+    second: Spider_16x16_117
+  - first:
+      213: -2400500277807948102
+    second: Spider_16x16_118
+  - first:
+      213: 6860808683431529237
+    second: Spider_16x16_119
+  - first:
+      213: -1010134863844869931
+    second: Spider_16x16_120
+  - first:
+      213: -2564764719565418970
+    second: Spider_16x16_121
+  - first:
+      213: -6855624051760229422
+    second: Spider_16x16_122
+  - first:
+      213: -1322319403977794362
+    second: Spider_16x16_123
+  - first:
+      213: 8478682876040030525
+    second: Spider_16x16_124
+  - first:
+      213: 3049426796649663622
+    second: Spider_16x16_125
+  - first:
+      213: 536931276388370441
+    second: Spider_16x16_126
+  - first:
+      213: 2014884671017067744
+    second: Spider_16x16_127
+  - first:
+      213: -6385966776723115852
+    second: Spider_16x16_128
+  - first:
+      213: -7001031646026012884
+    second: Spider_16x16_129
+  - first:
+      213: -4934721078235304351
+    second: Spider_16x16_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d121e8824678053b0800000000000000
+      internalID: -5525767878536719843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 193
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f739af6ef43c7f790800000000000000
+      internalID: -7496308306789887105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e623d0bc52364fe0800000000000000
+      internalID: -1205220476590020893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c1ee5aac9dbf960800000000000000
+      internalID: 7636937057527274505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7d6a6aecdcf99a0800000000000000
+      internalID: -6224029872559826996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 303
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7fb64cb5e6d6d20800000000000000
+      internalID: 3273393844584708026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 303
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a2a96455dd11aa0800000000000000
+      internalID: -6191924654331254225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 303
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278e4b97fc0d994a0800000000000000
+      internalID: -6586003390533932942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5e570f4029cd0c0800000000000000
+      internalID: -4549600973639260691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd9766f2313e6f60800000000000000
+      internalID: 8029409280600284608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dacd165062071d0800000000000000
+      internalID: -3355139917832475368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c837780970c9a4350800000000000000
+      internalID: 6001781009728107404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 287
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6952d5e0d78987ed0800000000000000
+      internalID: -2416013537204951658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 287
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6da7c68b3320700800000000000000
+      internalID: 505022975405905643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 287
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1133419098dfc0ee0800000000000000
+      internalID: -1293380227957509359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 287
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e248a97590bbf110800000000000000
+      internalID: 1295823473836835561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3688114aadafd04c0800000000000000
+      internalID: -4319520650616010653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eec18afbf03e7d0800000000000000
+      internalID: -2890449220008088029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 271
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b33d5b36e0d7d3d0800000000000000
+      internalID: -3181844924456946767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25af0e79506f04640800000000000000
+      internalID: 5062316485047810642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 271
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210d6ae8ac7a71bf0800000000000000
+      internalID: -353629557306765294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 271
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80461d3d672459c0800000000000000
+      internalID: -3939480423912554354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 271
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6305e7ec4b197e860800000000000000
+      internalID: 7559170705309192246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 271
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca89adf9c5f3d380800000000000000
+      internalID: -8947537786762065202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 271
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4b590b71722d130800000000000000
+      internalID: 3589974835668038830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 271
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ff8a2e1e73c9d70800000000000000
+      internalID: 9051170794417749911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 271
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0404e7308c859f960800000000000000
+      internalID: 7636232259258695744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 271
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3ef368955172400800000000000000
+      internalID: 299231374492034015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 193
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a5c725e8a360a0800000000000000
+      internalID: -6889477302778484584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 239
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d591244f2c493a0800000000000000
+      internalID: -6659483594637353632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 239
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06363e572e634340800000000000000
+      internalID: 4846838739344176651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 239
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe6c78318727a210800000000000000
+      internalID: 1344086449745325822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a906839ae0cae97c0800000000000000
+      internalID: -4062620634873044838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec4a32a1dd7f05c0800000000000000
+      internalID: -4247037584263721750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad349757aa0a00f60800000000000000
+      internalID: 7998569592185766874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4922a491b30c8d5e0800000000000000
+      internalID: -1884545083994660204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8108acfcf39c3d70800000000000000
+      internalID: 9024250468123541898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 223
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434a56957753190b0800000000000000
+      internalID: -5723734864693976012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 223
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3353b3764a78e3cd0800000000000000
+      internalID: -2576472796633025229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 223
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a749a22ffa2f290800000000000000
+      internalID: -7858024945176774141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa732917c20f6cfd0800000000000000
+      internalID: -2321904484188276822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e699148aa7bfc8b0800000000000000
+      internalID: -5129679507563112734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 207
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b729441ecdbd3dd0800000000000000
+      internalID: -2504637124946876492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 207
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e0a30094806c850800000000000000
+      internalID: 6396809430355807824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 207
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b61f6961fb4d3140800000000000000
+      internalID: 4700997086272755377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 207
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0fd277c592e04f0800000000000000
+      internalID: -860705001667956544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 207
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a2448e6568697e0800000000000000
+      internalID: -1759070896619509154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 207
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d0da5463d4d8fb0800000000000000
+      internalID: -4643970745256571609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 207
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87e55688fdc86180800000000000000
+      internalID: -9121814577949579379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 207
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43888351f6548e5a0800000000000000
+      internalID: -6491862519454857164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 207
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee795588b704b660800000000000000
+      internalID: 7400548576769179364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 207
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deeeed223180c710800000000000000
+      internalID: 1711509910919769809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 193
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10297c384b5bb7840800000000000000
+      internalID: 5222967979775857153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 175
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59c5342589aaf320800000000000000
+      internalID: 2592570924808391004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 175
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93551e93b7a944300800000000000000
+      internalID: 235482934572832057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 175
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c714f90d0db26a2c0800000000000000
+      internalID: -4420797808364273284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c99fe1337075a130800000000000000
+      internalID: 3577389119077063112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568e6928c9fbdb600800000000000000
+      internalID: 485755013752612965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27fa70f4f3b2f170800000000000000
+      internalID: 8210822935237818158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 159
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104b2cecdaf85ba70800000000000000
+      internalID: 8842131420072817665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f070016b050c74d0800000000000000
+      internalID: -3135625694126509834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35ae771f95e9c2d0800000000000000
+      internalID: -3257820383969106629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 159
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bdc7732d6b37650800000000000000
+      internalID: 6229523723573844774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3351af401cf9c90800000000000000
+      internalID: -7160792655376075818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24249e2a61c5e71a0800000000000000
+      internalID: -6809904334245379518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd92ae28cb88a160800000000000000
+      internalID: 7037028109658529235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 143
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c6840e05648a520800000000000000
+      internalID: 2713496088664894577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 143
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2593be833bc3e55f0800000000000000
+      internalID: -766108146154653358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 143
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8517c11647efe6280800000000000000
+      internalID: -9048014825541832360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b523396f8799440800000000000000
+      internalID: 4943115066442668936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326c312e35e524190800000000000000
+      internalID: -7979711875378854365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fbd161b06c876e0800000000000000
+      internalID: -1839502696862859419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcf0011faf0a88f0800000000000000
+      internalID: -537599960938382088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cc9f90f13e142a0800000000000000
+      internalID: -6754868243628176291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 143
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee224f54a41bda9a0800000000000000
+      internalID: -6220120577769463058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 143
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87299d8c8bda526d0800000000000000
+      internalID: -3015813366299389320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 193
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165923fae241d5f10800000000000000
+      internalID: 2259984778750236001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7caa2697c7198fe0800000000000000
+      internalID: -1186390880850105217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14d7483ff4d4e7b0800000000000000
+      internalID: -5195793877452729315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fc36d20a8944580800000000000000
+      internalID: -8843775954525106417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff4aa1afcc0d7440800000000000000
+      internalID: 4935114852577988596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dbf4c4dc75ed290800000000000000
+      internalID: -7863751360082100935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad26573b150b730800000000000000
+      internalID: 4012797099197520504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3f30bc09d658db0800000000000000
+      internalID: -4790302159989902354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7e25c55880a3320800000000000000
+      internalID: 2538350708849305594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a67283f0761af20800000000000000
+      internalID: 3432137706097306254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2563d1704064bddc0800000000000000
+      internalID: -3613217292921522606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd4133d399029f70800000000000000
+      internalID: 9192420319924669876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cc58ea662a32f70800000000000000
+      internalID: 9161344628900088985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457fed8809dac71e0800000000000000
+      internalID: -2198691681780435116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 79
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791deee585c53c1f0800000000000000
+      internalID: -1025874755490754153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7971cf33bf54a9000800000000000000
+      internalID: 43424091624707991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc604e297a4ebe80800000000000000
+      internalID: -8161003590421287713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 79
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0942cd4820e30af80800000000000000
+      internalID: -8097403949472275312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11402983143a528c0800000000000000
+      internalID: -4024631191468375023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9569149fea87ae0800000000000000
+      internalID: -1551297686058673733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 79
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d177904490974a90800000000000000
+      internalID: -7329730902108966440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772c7d12c9eb20540800000000000000
+      internalID: 4972746516362412663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a87328f102516a00800000000000000
+      internalID: 747969181531732130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 79
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4acf3bbd3643c00800000000000000
+      internalID: 879437622512755952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 193
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ed1d46b9ddc3d10800000000000000
+      internalID: 2106802385183694347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabf5f889c506e970800000000000000
+      internalID: 8783714486377118638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb51b79d6d21a56b0800000000000000
+      internalID: -5306908496921684545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ffca0642abf47b0800000000000000
+      internalID: -5237763176205058218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554ca9311ae42fae0800000000000000
+      internalID: -1517063670744824747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c9f0020711aea50800000000000000
+      internalID: 6551067781235711022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56ff0c1cd5ea84d0800000000000000
+      internalID: -3131437857356384676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be4adad935dff8e0800000000000000
+      internalID: -1657371693387460938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208d5a9ea51c1f9c0800000000000000
+      internalID: -3895119606487590910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f70c45d408d8300800000000000000
+      internalID: 256001823452725034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 31
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2417370bdfc9c60a0800000000000000
+      internalID: -6886957116755316414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e74953bc156f900800000000000000
+      internalID: 717851123831307782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408dc10546804d700800000000000000
+      internalID: 564085080261974020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed073b1ed66f2cc0800000000000000
+      internalID: -3733652461941486098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674b58f0203cf0450800000000000000
+      internalID: 6057274437454378102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0be8c02a056d090800000000000000
+      internalID: -8010126230306246429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aba795c6c11552a0800000000000000
+      internalID: -6749468921128571996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dbf57dbd2cf1630800000000000000
+      internalID: 3900050051793141149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abed70a37b5bfaed0800000000000000
+      internalID: -2400500277807948102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 15
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b0adfb52d763f50800000000000000
+      internalID: 6860808683431529237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8f94971b74bf1f0800000000000000
+      internalID: -1010134863844869931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 15
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e49d58310286cd0800000000000000
+      internalID: -2564764719565418970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d315316f3eebd0a0800000000000000
+      internalID: -6855624051760229422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc1c4e028d26ade0800000000000000
+      internalID: -1322319403977794362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39ad8d57255aa570800000000000000
+      internalID: 8478682876040030525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c4cd6d38db15a20800000000000000
+      internalID: 3049426796649663622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9080deda620937700800000000000000
+      internalID: 536931276388370441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e42a57deee46fb10800000000000000
+      internalID: 2014884671017067744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_128
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0f8f50d0d7067a0800000000000000
+      internalID: -6385966776723115852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27e95d9fc657de90800000000000000
+      internalID: -7001031646026012884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_16x16_130
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ee62a1359548bb0800000000000000
+      internalID: -4934721078235304351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spider_16x16_0: -5525767878536719843
+      Spider_16x16_1: -7496308306789887105
+      Spider_16x16_10: -3355139917832475368
+      Spider_16x16_100: 2106802385183694347
+      Spider_16x16_101: 8783714486377118638
+      Spider_16x16_102: -5306908496921684545
+      Spider_16x16_103: -5237763176205058218
+      Spider_16x16_104: -1517063670744824747
+      Spider_16x16_105: 6551067781235711022
+      Spider_16x16_106: -3131437857356384676
+      Spider_16x16_107: -1657371693387460938
+      Spider_16x16_108: -3895119606487590910
+      Spider_16x16_109: 256001823452725034
+      Spider_16x16_11: 6001781009728107404
+      Spider_16x16_110: -6886957116755316414
+      Spider_16x16_111: 717851123831307782
+      Spider_16x16_112: 564085080261974020
+      Spider_16x16_113: -3733652461941486098
+      Spider_16x16_114: 6057274437454378102
+      Spider_16x16_115: -8010126230306246429
+      Spider_16x16_116: -6749468921128571996
+      Spider_16x16_117: 3900050051793141149
+      Spider_16x16_118: -2400500277807948102
+      Spider_16x16_119: 6860808683431529237
+      Spider_16x16_12: -2416013537204951658
+      Spider_16x16_120: -1010134863844869931
+      Spider_16x16_121: -2564764719565418970
+      Spider_16x16_122: -6855624051760229422
+      Spider_16x16_123: -1322319403977794362
+      Spider_16x16_124: 8478682876040030525
+      Spider_16x16_125: 3049426796649663622
+      Spider_16x16_126: 536931276388370441
+      Spider_16x16_127: 2014884671017067744
+      Spider_16x16_128: -6385966776723115852
+      Spider_16x16_129: -7001031646026012884
+      Spider_16x16_13: 505022975405905643
+      Spider_16x16_130: -4934721078235304351
+      Spider_16x16_14: -1293380227957509359
+      Spider_16x16_15: 1295823473836835561
+      Spider_16x16_16: -4319520650616010653
+      Spider_16x16_17: -2890449220008088029
+      Spider_16x16_18: -3181844924456946767
+      Spider_16x16_19: 5062316485047810642
+      Spider_16x16_2: -1205220476590020893
+      Spider_16x16_20: -353629557306765294
+      Spider_16x16_21: -3939480423912554354
+      Spider_16x16_22: 7559170705309192246
+      Spider_16x16_23: -8947537786762065202
+      Spider_16x16_24: 3589974835668038830
+      Spider_16x16_25: 9051170794417749911
+      Spider_16x16_26: 7636232259258695744
+      Spider_16x16_27: 299231374492034015
+      Spider_16x16_28: -6889477302778484584
+      Spider_16x16_29: -6659483594637353632
+      Spider_16x16_3: 7636937057527274505
+      Spider_16x16_30: 4846838739344176651
+      Spider_16x16_31: 1344086449745325822
+      Spider_16x16_32: -4062620634873044838
+      Spider_16x16_33: -4247037584263721750
+      Spider_16x16_34: 7998569592185766874
+      Spider_16x16_35: -1884545083994660204
+      Spider_16x16_36: 9024250468123541898
+      Spider_16x16_37: -5723734864693976012
+      Spider_16x16_38: -2576472796633025229
+      Spider_16x16_39: -7858024945176774141
+      Spider_16x16_4: -6224029872559826996
+      Spider_16x16_40: -2321904484188276822
+      Spider_16x16_41: -5129679507563112734
+      Spider_16x16_42: -2504637124946876492
+      Spider_16x16_43: 6396809430355807824
+      Spider_16x16_44: 4700997086272755377
+      Spider_16x16_45: -860705001667956544
+      Spider_16x16_46: -1759070896619509154
+      Spider_16x16_47: -4643970745256571609
+      Spider_16x16_48: -9121814577949579379
+      Spider_16x16_49: -6491862519454857164
+      Spider_16x16_5: 3273393844584708026
+      Spider_16x16_50: 7400548576769179364
+      Spider_16x16_51: 1711509910919769809
+      Spider_16x16_52: 5222967979775857153
+      Spider_16x16_53: 2592570924808391004
+      Spider_16x16_54: 235482934572832057
+      Spider_16x16_55: -4420797808364273284
+      Spider_16x16_56: 3577389119077063112
+      Spider_16x16_57: 485755013752612965
+      Spider_16x16_58: 8210822935237818158
+      Spider_16x16_59: 8842131420072817665
+      Spider_16x16_6: -6191924654331254225
+      Spider_16x16_60: -3135625694126509834
+      Spider_16x16_61: -3257820383969106629
+      Spider_16x16_62: 6229523723573844774
+      Spider_16x16_63: -7160792655376075818
+      Spider_16x16_64: -6809904334245379518
+      Spider_16x16_65: 7037028109658529235
+      Spider_16x16_66: 2713496088664894577
+      Spider_16x16_67: -766108146154653358
+      Spider_16x16_68: -9048014825541832360
+      Spider_16x16_69: 4943115066442668936
+      Spider_16x16_7: -6586003390533932942
+      Spider_16x16_70: -7979711875378854365
+      Spider_16x16_71: -1839502696862859419
+      Spider_16x16_72: -537599960938382088
+      Spider_16x16_73: -6754868243628176291
+      Spider_16x16_74: -6220120577769463058
+      Spider_16x16_75: -3015813366299389320
+      Spider_16x16_76: 2259984778750236001
+      Spider_16x16_77: -1186390880850105217
+      Spider_16x16_78: -5195793877452729315
+      Spider_16x16_79: -8843775954525106417
+      Spider_16x16_8: -4549600973639260691
+      Spider_16x16_80: 4935114852577988596
+      Spider_16x16_81: -7863751360082100935
+      Spider_16x16_82: 4012797099197520504
+      Spider_16x16_83: -4790302159989902354
+      Spider_16x16_84: 2538350708849305594
+      Spider_16x16_85: 3432137706097306254
+      Spider_16x16_86: -3613217292921522606
+      Spider_16x16_87: 9192420319924669876
+      Spider_16x16_88: 9161344628900088985
+      Spider_16x16_89: -2198691681780435116
+      Spider_16x16_9: 8029409280600284608
+      Spider_16x16_90: -1025874755490754153
+      Spider_16x16_91: 43424091624707991
+      Spider_16x16_92: -8161003590421287713
+      Spider_16x16_93: -8097403949472275312
+      Spider_16x16_94: -4024631191468375023
+      Spider_16x16_95: -1551297686058673733
+      Spider_16x16_96: -7329730902108966440
+      Spider_16x16_97: 4972746516362412663
+      Spider_16x16_98: 747969181531732130
+      Spider_16x16_99: 879437622512755952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

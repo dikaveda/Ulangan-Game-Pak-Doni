@@ -1,4 +1,4 @@
-using UnityEngine;
+ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        totalKoin = GameObject.FindGameObjectsWithTag("Koin").Length;
+        totalKoin = GameObject.FindGameObjectsWithTag("Coin").Length;
     }
 
     void SaatZombieMati(Enemy zombie)
@@ -20,6 +20,10 @@ public class GameManager : MonoBehaviour
     public void AmbilKoin()
     {
         koinTerkumpul++;
+
+        // Mode respawn terus: tidak ada kondisi menang, skor terus bertambah
+        if (ModeRespawn()) return;
+
         if (koinTerkumpul == totalKoin)
         {
             Menang();
@@ -45,7 +49,13 @@ public class GameManager : MonoBehaviour
     void OnGUI()
     {
         GUI.skin.label.fontSize = 22;
-        GUI.Label(new Rect(16, 16, 480, 36), "Koin: " + koinTerkumpul + " / " + totalKoin);
-        GUI.Label(new Rect(16, 52, 480, 36), "Zombie mati: " + jumlahZombieMati);
+        // Baris paling atas dipakai health bar (PlayerHealth), jadi teks digeser ke bawah
+        string teks = ModeRespawn() ? "Koin: " + koinTerkumpul : "Koin: " + koinTerkumpul + " / " + totalKoin;
+        GUI.Label(new Rect(16, 50, 480, 36), teks);
+    }
+
+    bool ModeRespawn()
+    {
+        return CoinRandomizer.Instance != null && CoinRandomizer.Instance.RespawnAktif;
     }
 }

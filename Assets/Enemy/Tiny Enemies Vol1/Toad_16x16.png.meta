@@ -1,0 +1,5421 @@
+fileFormatVersion: 2
+guid: 91549e1ddf7341d498dddc8988f27ecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5728056473127833658
+    second: Toad_16x16_0
+  - first:
+      213: -5938426707143538500
+    second: Toad_16x16_1
+  - first:
+      213: 8344323404049449685
+    second: Toad_16x16_2
+  - first:
+      213: -3064545538182344265
+    second: Toad_16x16_3
+  - first:
+      213: 1893372283165434280
+    second: Toad_16x16_4
+  - first:
+      213: -5619343177066245841
+    second: Toad_16x16_5
+  - first:
+      213: -4419052022217418079
+    second: Toad_16x16_6
+  - first:
+      213: 5668539919942151184
+    second: Toad_16x16_7
+  - first:
+      213: -448465835659101192
+    second: Toad_16x16_8
+  - first:
+      213: 4229335315402764723
+    second: Toad_16x16_9
+  - first:
+      213: 8696994888805709963
+    second: Toad_16x16_10
+  - first:
+      213: 8330610560950713411
+    second: Toad_16x16_11
+  - first:
+      213: 4258881524501905887
+    second: Toad_16x16_12
+  - first:
+      213: -510417522742969037
+    second: Toad_16x16_13
+  - first:
+      213: -7671033755373653051
+    second: Toad_16x16_14
+  - first:
+      213: -2903386903114631328
+    second: Toad_16x16_15
+  - first:
+      213: 3333241936951359005
+    second: Toad_16x16_16
+  - first:
+      213: 5874196788719723800
+    second: Toad_16x16_17
+  - first:
+      213: 2688816780709097561
+    second: Toad_16x16_18
+  - first:
+      213: -1450833815913267872
+    second: Toad_16x16_19
+  - first:
+      213: 254303452022483165
+    second: Toad_16x16_20
+  - first:
+      213: 3761027814603711306
+    second: Toad_16x16_21
+  - first:
+      213: 3887463176619638175
+    second: Toad_16x16_22
+  - first:
+      213: 7665034040400271208
+    second: Toad_16x16_23
+  - first:
+      213: -2560817389958270461
+    second: Toad_16x16_24
+  - first:
+      213: -1710278053776433370
+    second: Toad_16x16_25
+  - first:
+      213: -2041328885888696476
+    second: Toad_16x16_26
+  - first:
+      213: 5346075141741232070
+    second: Toad_16x16_27
+  - first:
+      213: -4676876444402915751
+    second: Toad_16x16_28
+  - first:
+      213: -5805051690263963622
+    second: Toad_16x16_29
+  - first:
+      213: -579663945475870148
+    second: Toad_16x16_30
+  - first:
+      213: -2576743937939323145
+    second: Toad_16x16_31
+  - first:
+      213: -7285445743886112221
+    second: Toad_16x16_32
+  - first:
+      213: 9086453129520850415
+    second: Toad_16x16_33
+  - first:
+      213: -6809560913367265549
+    second: Toad_16x16_34
+  - first:
+      213: -1926124891612647742
+    second: Toad_16x16_35
+  - first:
+      213: -5139529257828883208
+    second: Toad_16x16_36
+  - first:
+      213: 184090936243722861
+    second: Toad_16x16_37
+  - first:
+      213: 9121082101432953887
+    second: Toad_16x16_38
+  - first:
+      213: 8010627415510597592
+    second: Toad_16x16_39
+  - first:
+      213: 7875088174545485840
+    second: Toad_16x16_40
+  - first:
+      213: -4608601797670697634
+    second: Toad_16x16_41
+  - first:
+      213: -8824110307090839622
+    second: Toad_16x16_42
+  - first:
+      213: -5568771290264561550
+    second: Toad_16x16_43
+  - first:
+      213: 910888063276232665
+    second: Toad_16x16_44
+  - first:
+      213: 9146462654822999949
+    second: Toad_16x16_45
+  - first:
+      213: 1188469979275994367
+    second: Toad_16x16_46
+  - first:
+      213: -510822206683384395
+    second: Toad_16x16_47
+  - first:
+      213: -4377959368684469750
+    second: Toad_16x16_48
+  - first:
+      213: 379876192402611884
+    second: Toad_16x16_49
+  - first:
+      213: 7156046935807371377
+    second: Toad_16x16_50
+  - first:
+      213: 9188844507843429500
+    second: Toad_16x16_51
+  - first:
+      213: -5655297855295401425
+    second: Toad_16x16_52
+  - first:
+      213: -7637133984238276526
+    second: Toad_16x16_53
+  - first:
+      213: 7195205398822331609
+    second: Toad_16x16_54
+  - first:
+      213: -502254321706400299
+    second: Toad_16x16_55
+  - first:
+      213: -3207918477314414911
+    second: Toad_16x16_56
+  - first:
+      213: 6660893847779108148
+    second: Toad_16x16_57
+  - first:
+      213: -8556171044321851575
+    second: Toad_16x16_58
+  - first:
+      213: -3970590815792470255
+    second: Toad_16x16_59
+  - first:
+      213: 743747033966796199
+    second: Toad_16x16_60
+  - first:
+      213: -597923155779107409
+    second: Toad_16x16_61
+  - first:
+      213: -4704435887495985295
+    second: Toad_16x16_62
+  - first:
+      213: -7096545900114983080
+    second: Toad_16x16_63
+  - first:
+      213: 5272891648833136799
+    second: Toad_16x16_64
+  - first:
+      213: -222193532225351062
+    second: Toad_16x16_65
+  - first:
+      213: 6162226598395682199
+    second: Toad_16x16_66
+  - first:
+      213: -7433525138415561136
+    second: Toad_16x16_67
+  - first:
+      213: 4796547937742441353
+    second: Toad_16x16_68
+  - first:
+      213: -6322081551987262874
+    second: Toad_16x16_69
+  - first:
+      213: 207986471650340631
+    second: Toad_16x16_70
+  - first:
+      213: 2080402384331766407
+    second: Toad_16x16_71
+  - first:
+      213: -8270661439180298220
+    second: Toad_16x16_72
+  - first:
+      213: -1407363417106765058
+    second: Toad_16x16_73
+  - first:
+      213: 7216581436652993892
+    second: Toad_16x16_74
+  - first:
+      213: 4717101786517968281
+    second: Toad_16x16_75
+  - first:
+      213: -3555833605727153696
+    second: Toad_16x16_76
+  - first:
+      213: -5610007032958441227
+    second: Toad_16x16_77
+  - first:
+      213: -8087127393479945485
+    second: Toad_16x16_78
+  - first:
+      213: 138753186211058436
+    second: Toad_16x16_79
+  - first:
+      213: 5612508461558549025
+    second: Toad_16x16_80
+  - first:
+      213: 1068823651222182441
+    second: Toad_16x16_81
+  - first:
+      213: -1389257567184398123
+    second: Toad_16x16_82
+  - first:
+      213: -5224551239671115884
+    second: Toad_16x16_83
+  - first:
+      213: -4320895952879829632
+    second: Toad_16x16_84
+  - first:
+      213: 3685363303016111013
+    second: Toad_16x16_85
+  - first:
+      213: 2298519560311873854
+    second: Toad_16x16_86
+  - first:
+      213: 7410489480289822553
+    second: Toad_16x16_87
+  - first:
+      213: 3567314826458314715
+    second: Toad_16x16_88
+  - first:
+      213: 2677800143447840343
+    second: Toad_16x16_89
+  - first:
+      213: -3490561394311327681
+    second: Toad_16x16_90
+  - first:
+      213: -7063663415245706945
+    second: Toad_16x16_91
+  - first:
+      213: -4322741810559553829
+    second: Toad_16x16_92
+  - first:
+      213: 3128248034379424453
+    second: Toad_16x16_93
+  - first:
+      213: 4193538118549491204
+    second: Toad_16x16_94
+  - first:
+      213: 1503173682479480210
+    second: Toad_16x16_95
+  - first:
+      213: 4087765312934246308
+    second: Toad_16x16_96
+  - first:
+      213: -2707061709936100757
+    second: Toad_16x16_97
+  - first:
+      213: 126217567928445742
+    second: Toad_16x16_98
+  - first:
+      213: 6263838485131227480
+    second: Toad_16x16_99
+  - first:
+      213: -5212590600188537391
+    second: Toad_16x16_100
+  - first:
+      213: 3389572348167086886
+    second: Toad_16x16_101
+  - first:
+      213: 8374950679346395375
+    second: Toad_16x16_102
+  - first:
+      213: 7397242328986910742
+    second: Toad_16x16_103
+  - first:
+      213: -8483196879437956934
+    second: Toad_16x16_104
+  - first:
+      213: -8145997916600161577
+    second: Toad_16x16_105
+  - first:
+      213: -7023540905095411008
+    second: Toad_16x16_106
+  - first:
+      213: 8822701796188619384
+    second: Toad_16x16_107
+  - first:
+      213: -9169684059939217813
+    second: Toad_16x16_108
+  - first:
+      213: -3362063125954489848
+    second: Toad_16x16_109
+  - first:
+      213: 8082106853569873138
+    second: Toad_16x16_110
+  - first:
+      213: -1872285974572301161
+    second: Toad_16x16_111
+  - first:
+      213: -5836251855562500507
+    second: Toad_16x16_112
+  - first:
+      213: -908816691536991785
+    second: Toad_16x16_113
+  - first:
+      213: -8507642156465903070
+    second: Toad_16x16_114
+  - first:
+      213: -8083847216125802295
+    second: Toad_16x16_115
+  - first:
+      213: 3076107949611038693
+    second: Toad_16x16_116
+  - first:
+      213: 5106785213021980752
+    second: Toad_16x16_117
+  - first:
+      213: -4085412581693708309
+    second: Toad_16x16_118
+  - first:
+      213: 2080629585178859434
+    second: Toad_16x16_119
+  - first:
+      213: 2854376092750790078
+    second: Toad_16x16_120
+  - first:
+      213: -8886912456991590482
+    second: Toad_16x16_121
+  - first:
+      213: -9100605643031535410
+    second: Toad_16x16_122
+  - first:
+      213: -6222215969124930428
+    second: Toad_16x16_123
+  - first:
+      213: 8808353410077818736
+    second: Toad_16x16_124
+  - first:
+      213: -7352500340444023825
+    second: Toad_16x16_125
+  - first:
+      213: 9013536955573536567
+    second: Toad_16x16_126
+  - first:
+      213: 3410807929425361926
+    second: Toad_16x16_127
+  - first:
+      213: 5230624928954271235
+    second: Toad_16x16_128
+  - first:
+      213: -2711321622375084400
+    second: Toad_16x16_129
+  - first:
+      213: -8391212701501937935
+    second: Toad_16x16_130
+  - first:
+      213: -105002599646045891
+    second: Toad_16x16_131
+  - first:
+      213: 6745232419053504878
+    second: Toad_16x16_132
+  - first:
+      213: -4932520481731274950
+    second: Toad_16x16_133
+  - first:
+      213: -446378673501864365
+    second: Toad_16x16_134
+  - first:
+      213: -4738842227472123829
+    second: Toad_16x16_135
+  - first:
+      213: -9016500507583358177
+    second: Toad_16x16_136
+  - first:
+      213: -4468384686572115627
+    second: Toad_16x16_137
+  - first:
+      213: -1172273810065920453
+    second: Toad_16x16_138
+  - first:
+      213: -3885957408191158387
+    second: Toad_16x16_139
+  - first:
+      213: 2774181135477163857
+    second: Toad_16x16_140
+  - first:
+      213: 1930677564397820198
+    second: Toad_16x16_141
+  - first:
+      213: 1437445629234159513
+    second: Toad_16x16_142
+  - first:
+      213: 9171957626624278678
+    second: Toad_16x16_143
+  - first:
+      213: -6129430649995275595
+    second: Toad_16x16_144
+  - first:
+      213: -4616358008253398525
+    second: Toad_16x16_145
+  - first:
+      213: -4852888171075135471
+    second: Toad_16x16_146
+  - first:
+      213: -3397323535425143454
+    second: Toad_16x16_147
+  - first:
+      213: -1276122928056749180
+    second: Toad_16x16_148
+  - first:
+      213: 4979919234238703904
+    second: Toad_16x16_149
+  - first:
+      213: 2613090689264203233
+    second: Toad_16x16_150
+  - first:
+      213: 7604819705901788804
+    second: Toad_16x16_151
+  - first:
+      213: -1969822631050921929
+    second: Toad_16x16_152
+  - first:
+      213: -283960303491148441
+    second: Toad_16x16_153
+  - first:
+      213: -6720112213195900583
+    second: Toad_16x16_154
+  - first:
+      213: 5431862886430591690
+    second: Toad_16x16_155
+  - first:
+      213: -9198052791156818896
+    second: Toad_16x16_156
+  - first:
+      213: 8417611870033853226
+    second: Toad_16x16_157
+  - first:
+      213: 1687914561954054251
+    second: Toad_16x16_158
+  - first:
+      213: -1286035741748446795
+    second: Toad_16x16_159
+  - first:
+      213: -7301584987739259962
+    second: Toad_16x16_160
+  - first:
+      213: -5711421029445952960
+    second: Toad_16x16_161
+  - first:
+      213: 9060639547930119260
+    second: Toad_16x16_162
+  - first:
+      213: -6148246690077648919
+    second: Toad_16x16_163
+  - first:
+      213: 2114534372243274782
+    second: Toad_16x16_164
+  - first:
+      213: 6236652878289674615
+    second: Toad_16x16_165
+  - first:
+      213: -8519300977968691004
+    second: Toad_16x16_166
+  - first:
+      213: -4672196019075355773
+    second: Toad_16x16_167
+  - first:
+      213: 4539168135961338379
+    second: Toad_16x16_168
+  - first:
+      213: 5150021521429342559
+    second: Toad_16x16_169
+  - first:
+      213: 899062948058832586
+    second: Toad_16x16_170
+  - first:
+      213: -6106726871502202582
+    second: Toad_16x16_171
+  - first:
+      213: -8152585596771415351
+    second: Toad_16x16_172
+  - first:
+      213: -7209304245515394622
+    second: Toad_16x16_173
+  - first:
+      213: 5962364469939266063
+    second: Toad_16x16_174
+  - first:
+      213: 4580188291547068142
+    second: Toad_16x16_175
+  - first:
+      213: -2067592227051270172
+    second: Toad_16x16_176
+  - first:
+      213: 4507599289855918550
+    second: Toad_16x16_177
+  - first:
+      213: 1369776322155252184
+    second: Toad_16x16_178
+  - first:
+      213: 347225860808443590
+    second: Toad_16x16_179
+  - first:
+      213: 3707452084348397523
+    second: Toad_16x16_180
+  - first:
+      213: -7418225707787915660
+    second: Toad_16x16_181
+  - first:
+      213: -3422807511728200168
+    second: Toad_16x16_182
+  - first:
+      213: 1953909256498174868
+    second: Toad_16x16_183
+  - first:
+      213: 4481459790927735978
+    second: Toad_16x16_184
+  - first:
+      213: -162250305229127305
+    second: Toad_16x16_185
+  - first:
+      213: -6511189003952867774
+    second: Toad_16x16_186
+  - first:
+      213: 1484265141722715337
+    second: Toad_16x16_187
+  - first:
+      213: 1609225720935704973
+    second: Toad_16x16_188
+  - first:
+      213: -5833883532010239085
+    second: Toad_16x16_189
+  - first:
+      213: 4162380132756220639
+    second: Toad_16x16_190
+  - first:
+      213: 1146333499598232241
+    second: Toad_16x16_191
+  - first:
+      213: -1518941477161028444
+    second: Toad_16x16_192
+  - first:
+      213: -8239865255300576968
+    second: Toad_16x16_193
+  - first:
+      213: -4460551332971101656
+    second: Toad_16x16_194
+  - first:
+      213: 2223830519233889560
+    second: Toad_16x16_195
+  - first:
+      213: 5164766474889966011
+    second: Toad_16x16_196
+  - first:
+      213: 5994739146274007109
+    second: Toad_16x16_197
+  - first:
+      213: 6460387711020439444
+    second: Toad_16x16_198
+  - first:
+      213: -7934350791259710775
+    second: Toad_16x16_199
+  - first:
+      213: -55815583816500811
+    second: Toad_16x16_200
+  - first:
+      213: 8151589116886222977
+    second: Toad_16x16_201
+  - first:
+      213: 3844926887104569708
+    second: Toad_16x16_202
+  - first:
+      213: 4298027939186596037
+    second: Toad_16x16_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Toad_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfa6d97cfad180b0800000000000000
+      internalID: -5728056473127833658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8440c7f58769da0800000000000000
+      internalID: -5938426707143538500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d288550dedfcc370800000000000000
+      internalID: 8344323404049449685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 303
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b112a6d11c8875d0800000000000000
+      internalID: -3064545538182344265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 303
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a165ad5f0c964a10800000000000000
+      internalID: 1893372283165434280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2193fb27251402b0800000000000000
+      internalID: -5619343177066245841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa52c3599f5ca2c0800000000000000
+      internalID: -4419052022217418079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ce5432603baae40800000000000000
+      internalID: 5668539919942151184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbf3a3d2bab6c9f0800000000000000
+      internalID: -448465835659101192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 287
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1b896bf0e91ba30800000000000000
+      internalID: 4229335315402764723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88f6a0d5cee1b870800000000000000
+      internalID: 8696994888805709963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cb59fea264c9370800000000000000
+      internalID: 8330610560950713411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd109689e269a1b30800000000000000
+      internalID: 4258881524501905887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 287
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d35c5a7f1aae8f0800000000000000
+      internalID: -510417522742969037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 287
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c33cee31730b8590800000000000000
+      internalID: -7671033755373653051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b4529ef815b7d0800000000000000
+      internalID: -2903386903114631328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 287
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16bb62a1ed024e20800000000000000
+      internalID: 3333241936951359005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81521644bd6558150800000000000000
+      internalID: 5874196788719723800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9507648bd98905520800000000000000
+      internalID: 2688816780709097561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 287
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d7d5ec45a9ddbe0800000000000000
+      internalID: -1450833815913267872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8a4fa64a7778300800000000000000
+      internalID: 254303452022483165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 303
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4361dfdedad13430800000000000000
+      internalID: 3761027814603711306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d33d7992b03f530800000000000000
+      internalID: 3887463176619638175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867d55149dbaf5a60800000000000000
+      internalID: 7665034040400271208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 271
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302f4e0d626267cd0800000000000000
+      internalID: -2560817389958270461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f5289eb2fd348e0800000000000000
+      internalID: -1710278053776433370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 271
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f3cd6913ebba3e0800000000000000
+      internalID: -2041328885888696476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 287
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf38064403113a40800000000000000
+      internalID: 5346075141741232070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 287
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956e8f827a5681fb0800000000000000
+      internalID: -4676876444402915751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1819038e30507fa0800000000000000
+      internalID: -5805051690263963622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c323fc876be94f7f0800000000000000
+      internalID: -579663945475870148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 255
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f64cf56a019d3cd0800000000000000
+      internalID: -2576743937939323145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 255
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a694522b5e4ea90800000000000000
+      internalID: -7285445743886112221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5a35daaf0991e70800000000000000
+      internalID: 9086453129520850415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 255
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe0c5a8d649f71a0800000000000000
+      internalID: -6809560913367265549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 255
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cee36abd970545e0800000000000000
+      internalID: -1926124891612647742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4e162de59bca8b0800000000000000
+      internalID: -5139529257828883208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 256
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a1d2d2bb50e8200800000000000000
+      internalID: 184090936243722861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ca51f78d7949e70800000000000000
+      internalID: 9121082101432953887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 255
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfb38931377b2f60800000000000000
+      internalID: 8010627415510597592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 256
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010c9a288fee94d60800000000000000
+      internalID: 7875088174545485840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 271
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e558c9a1515fa00c0800000000000000
+      internalID: -4608601797670697634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7ccf68d667a8580800000000000000
+      internalID: -8824110307090839622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27813602400c7b2b0800000000000000
+      internalID: -5568771290264561550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 239
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df29b11edf14ac00800000000000000
+      internalID: 910888063276232665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87e9141353ceee70800000000000000
+      internalID: 9146462654822999949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff426fc362b4e7010800000000000000
+      internalID: 1188469979275994367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 255
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b57143d8e139e8f0800000000000000
+      internalID: -510822206683384395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 255
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02087c462d5e33c0800000000000000
+      internalID: -4377959368684469750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae19c26267954500800000000000000
+      internalID: 379876192402611884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17822d416c26f4360800000000000000
+      internalID: 7156046935807371377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c748e423565558f70800000000000000
+      internalID: 9188844507843429500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 223
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22d61c40985481b0800000000000000
+      internalID: -5655297855295401425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 223
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250f967ca13730690800000000000000
+      internalID: -7637133984238276526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 223
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d427ca30318ad360800000000000000
+      internalID: 7195205398822331609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d509cffa52a709f0800000000000000
+      internalID: -502254321706400299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c62343242f2b73d0800000000000000
+      internalID: -3207918477314414911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4356573e9af307c50800000000000000
+      internalID: 6660893847779108148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94786b984cf524980800000000000000
+      internalID: -8556171044321851575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 223
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117e24ca0b0a5e8c0800000000000000
+      internalID: -3970590815792470255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 224
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad5752acf1525a00800000000000000
+      internalID: 743747033966796199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 239
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa54ec8ce00c3b7f0800000000000000
+      internalID: -597923155779107409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177c3394c7c76beb0800000000000000
+      internalID: -4704435887495985295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857446b5a11048d90800000000000000
+      internalID: -7096545900114983080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 207
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98a2d384031d2940800000000000000
+      internalID: 5272891648833136799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a629150e82c9aecf0800000000000000
+      internalID: -222193532225351062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d96de3170a48550800000000000000
+      internalID: 6162226598395682199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 223
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056ddc76540d6d890800000000000000
+      internalID: -7433525138415561136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 223
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b4549afe2c09240800000000000000
+      internalID: 4796547937742441353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66abfb403547348a0800000000000000
+      internalID: -6322081551987262874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 191
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f2ec0189ae2e200800000000000000
+      internalID: 207986471650340631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 191
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a78f332f21fdc10800000000000000
+      internalID: 2080402384331766407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 191
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418232cad35b83d80800000000000000
+      internalID: -8270661439180298220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 191
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaa87dbd6a087ce0800000000000000
+      internalID: -1407363417106765058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 191
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d3160e492762460800000000000000
+      internalID: 7216581436652993892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99593c22513867140800000000000000
+      internalID: 4717101786517968281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e19c3adc2427aec0800000000000000
+      internalID: -3555833605727153696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 192
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8a11d93504522b0800000000000000
+      internalID: -5610007032958441227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f21c4aab70c4cf80800000000000000
+      internalID: -8087127393479945485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 191
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4035097a943fce100800000000000000
+      internalID: 138753186211058436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a421e95b2a3ed40800000000000000
+      internalID: 5612508461558549025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 207
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a52aaa27935de00800000000000000
+      internalID: 1068823651222182441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8537e6a9d58bce0800000000000000
+      internalID: -1389257567184398123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f8390145aae77b0800000000000000
+      internalID: -5224551239671115884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 175
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dbc2126081904c0800000000000000
+      internalID: -4320895952879829632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab1980f56a052330800000000000000
+      internalID: 3685363303016111013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 175
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e312dadac5bf5ef10800000000000000
+      internalID: 2298519560311873854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957a17c7be857d660800000000000000
+      internalID: 7410489480289822553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd738092fe5a18130800000000000000
+      internalID: 3567314826458314715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756d2b9fa05792520800000000000000
+      internalID: 2677800143447840343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f309169d7e80f8fc0800000000000000
+      internalID: -3490561394311327681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f396b597c83d8fd90800000000000000
+      internalID: -7063663415245706945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 159
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde6ed5e9398204c0800000000000000
+      internalID: -4322741810559553829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2ef7a5305c96b20800000000000000
+      internalID: 3128248034379424453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 159
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ec33453b0723a30800000000000000
+      internalID: 4193538118549491204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29db7e300885cd410800000000000000
+      internalID: 1503173682479480210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7fb9ae4e8aab830800000000000000
+      internalID: 4087765312934246308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a723aa7b59e6ad0800000000000000
+      internalID: -2707061709936100757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2be9c4953a60c100800000000000000
+      internalID: 126217567928445742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 159
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851faac3aef9de650800000000000000
+      internalID: 6263838485131227480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5d834777829a7b0800000000000000
+      internalID: -5212590600188537391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 175
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6236cf8871e2a0f20800000000000000
+      internalID: 3389572348167086886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8bbdd354dc93470800000000000000
+      internalID: 8374950679346395375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6108fb8b4b848a660800000000000000
+      internalID: 7397242328986910742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8f5615261a54a80800000000000000
+      internalID: -8483196879437956934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daa9ffdd0a93fe80800000000000000
+      internalID: -8145997916600161577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 143
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cacc5652ce578e90800000000000000
+      internalID: -7023540905095411008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 159
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8720609f988807a70800000000000000
+      internalID: 8822701796188619384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ed2c83eecbeb080800000000000000
+      internalID: -9169684059939217813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8021b01666d8751d0800000000000000
+      internalID: -3362063125954489848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f448cbcc59692070800000000000000
+      internalID: 8082106853569873138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7940caf63dd4406e0800000000000000
+      internalID: -1872285974572301161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 127
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5669b71fbd7710fa0800000000000000
+      internalID: -5836251855562500507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 127
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9edfeb80c3363f0800000000000000
+      internalID: -908816691536991785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a26bbb888cee980800000000000000
+      internalID: -8507642156465903070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c88a4879c760df80800000000000000
+      internalID: -8083847216125802295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7325bd1e780ba20800000000000000
+      internalID: 3076107949611038693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05884662812fed640800000000000000
+      internalID: 5106785213021980752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be72c3307e2bd47c0800000000000000
+      internalID: -4085412581693708309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 127
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa711c58591efdc10800000000000000
+      internalID: 2080629585178859434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 128
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd37c7eee7cc9720800000000000000
+      internalID: 2854376092750790078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7b50b84385ba480800000000000000
+      internalID: -8886912456991590482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0a03e726724b180800000000000000
+      internalID: -9100605643031535410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cab84fa8f36a9a0800000000000000
+      internalID: -6222215969124930428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 111
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ff9cff1ce8d3a70800000000000000
+      internalID: 8808353410077818736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe335e445eba6f990800000000000000
+      internalID: -7352500340444023825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 111
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73701d6fa14861d70800000000000000
+      internalID: 9013536955573536567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cfb769dbf955f20800000000000000
+      internalID: 3410807929425361926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_128
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3064f9be8a9e69840800000000000000
+      internalID: 5230624928954271235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e4f7289537f5ad0800000000000000
+      internalID: -2711321622375084400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f62b3ca18c6c8b80800000000000000
+      internalID: -8391212701501937935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39da9321b4fa8ef0800000000000000
+      internalID: -105002599646045891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_132
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e690229b521eb9d50800000000000000
+      internalID: 6745232419053504878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37911761ca2c8bb0800000000000000
+      internalID: -4932520481731274950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_134
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 95
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e7c9226f42ec9f0800000000000000
+      internalID: -446378673501864365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4837e00a104c3eb0800000000000000
+      internalID: -4738842227472123829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_136
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b5d505f84fed280800000000000000
+      internalID: -9016500507583358177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559e2155dcb1df1c0800000000000000
+      internalID: -4468384686572115627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ee6834e2f3bbfe0800000000000000
+      internalID: -1172273810065920453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 95
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87e770735e421ac0800000000000000
+      internalID: -3885957408191158387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_140
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157c4b26b0fdf7620800000000000000
+      internalID: 2774181135477163857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_141
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6299fb104052bca10800000000000000
+      internalID: 1930677564397820198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f90721f25d2f310800000000000000
+      internalID: 1437445629234159513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_143
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69000e5cdd6594f70800000000000000
+      internalID: 9171957626624278678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_144
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2d3a78c43efeaa0800000000000000
+      internalID: -6129430649995275595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302c60a99d66fefb0800000000000000
+      internalID: -4616358008253398525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_146
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 79
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1181f5c8be317acb0800000000000000
+      internalID: -4852888171075135471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_147
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 95
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26df8eb8e384ad0d0800000000000000
+      internalID: -3397323535425143454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_148
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 95
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483327745fc4a4ee0800000000000000
+      internalID: -1276122928056749180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_149
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029eee6a82a3c1540800000000000000
+      internalID: 4979919234238703904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_150
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5397b1320934420800000000000000
+      internalID: 2613090689264203233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_151
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eaa2ffa3fb98960800000000000000
+      internalID: 7604819705901788804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_152
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7383fade0c8c9a4e0800000000000000
+      internalID: -1969822631050921929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_153
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7651914cb9b2f0cf0800000000000000
+      internalID: -283960303491148441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_154
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959b1b9fb8d5db2a0800000000000000
+      internalID: -6720112213195900583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_155
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acac256148ad16b40800000000000000
+      internalID: 5431862886430591690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_156
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cbec548b3f95080800000000000000
+      internalID: -9198052791156818896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_157
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bba7ab56d51d470800000000000000
+      internalID: 8417611870033853226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_158
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b600b74e95dac6710800000000000000
+      internalID: 1687914561954054251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_159
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 63
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9b0ac7e45172ee0800000000000000
+      internalID: -1286035741748446795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_160
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 64
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf97c932f8baa90800000000000000
+      internalID: -7301584987739259962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_161
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 79
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a9d2985d4fcb0b0800000000000000
+      internalID: -5711421029445952960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c0b3cd9abddbd70800000000000000
+      internalID: 9060639547930119260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_163
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7537ec53a0daaa0800000000000000
+      internalID: -6148246690077648919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_164
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 47
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cf9eaeec5585d10800000000000000
+      internalID: 2114534372243274782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_165
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771afd5efba0d8650800000000000000
+      internalID: 6236652878289674615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_166
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8c981d5ec55c980800000000000000
+      internalID: -8519300977968691004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_167
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38be40a9976092fb0800000000000000
+      internalID: -4672196019075355773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_168
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b026fbfbe5d5efe30800000000000000
+      internalID: 4539168135961338379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59a96aa94d887740800000000000000
+      internalID: 5150021521429342559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_170
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace13c1ecfc1a7c00800000000000000
+      internalID: 899062948058832586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2957c3e34c804ba0800000000000000
+      internalID: -6106726871502202582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_172
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca497f08923cde80800000000000000
+      internalID: -8152585596771415351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1e6583cf763fb90800000000000000
+      internalID: -7209304245515394622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_174
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e32c35e29eb250800000000000000
+      internalID: 5962364469939266063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_175
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6f01afbf8109f30800000000000000
+      internalID: 4580188291547068142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_176
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef0046f2df6e43e0800000000000000
+      internalID: -2067592227051270172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d14aadfba53e8e30800000000000000
+      internalID: 4507599289855918550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_178
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d90ecfbe4c620310800000000000000
+      internalID: 1369776322155252184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_179
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6015aa41891d400800000000000000
+      internalID: 347225860808443590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_180
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 32
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d72e5d1704837330800000000000000
+      internalID: 3707452084348397523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_181
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 47
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e61afa50b2d0990800000000000000
+      internalID: -7418225707787915660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816e6e0f3bebf70d0800000000000000
+      internalID: -3422807511728200168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_183
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bdbe4dd1ead1b10800000000000000
+      internalID: 1953909256498174868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_184
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaca171afe7513e30800000000000000
+      internalID: 4481459790927735978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7718e1005329fbdf0800000000000000
+      internalID: -162250305229127305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_186
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246b5f1491c93a5a0800000000000000
+      internalID: -6511189003952867774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_187
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c490ec484b299410800000000000000
+      internalID: 1484265141722715337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_188
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 31
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d896bc3644e155610800000000000000
+      internalID: 1609225720935704973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_189
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b478d36d1e90fa0800000000000000
+      internalID: -5833883532010239085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_190
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdae3117daeb3c930800000000000000
+      internalID: 4162380132756220639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_191
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1badead8e3898ef00800000000000000
+      internalID: 1146333499598232241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_192
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4b53336c2abeae0800000000000000
+      internalID: -1518941477161028444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_193
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c9bcf43e16ad80800000000000000
+      internalID: -8239865255300576968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_194
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822ccd71230f812c0800000000000000
+      internalID: -4460551332971101656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_195
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815cb9b2312acde10800000000000000
+      internalID: 2223830519233889560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_196
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1b9abaebfeca740800000000000000
+      internalID: 5164766474889966011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_197
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5486ac6fd77913350800000000000000
+      internalID: 5994739146274007109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_198
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4971ca20568e7a950800000000000000
+      internalID: 6460387711020439444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_199
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca10ab4ef583e190800000000000000
+      internalID: -7934350791259710775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_200
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9bfa1b504b93ff0800000000000000
+      internalID: -55815583816500811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_201
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 15
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18881f2ec13402170800000000000000
+      internalID: 8151589116886222977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61673de1aceb5530800000000000000
+      internalID: 3844926887104569708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toad_16x16_203
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8dbe583a9a5ab30800000000000000
+      internalID: 4298027939186596037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Toad_16x16_0: -5728056473127833658
+      Toad_16x16_1: -5938426707143538500
+      Toad_16x16_10: 8696994888805709963
+      Toad_16x16_100: -5212590600188537391
+      Toad_16x16_101: 3389572348167086886
+      Toad_16x16_102: 8374950679346395375
+      Toad_16x16_103: 7397242328986910742
+      Toad_16x16_104: -8483196879437956934
+      Toad_16x16_105: -8145997916600161577
+      Toad_16x16_106: -7023540905095411008
+      Toad_16x16_107: 8822701796188619384
+      Toad_16x16_108: -9169684059939217813
+      Toad_16x16_109: -3362063125954489848
+      Toad_16x16_11: 8330610560950713411
+      Toad_16x16_110: 8082106853569873138
+      Toad_16x16_111: -1872285974572301161
+      Toad_16x16_112: -5836251855562500507
+      Toad_16x16_113: -908816691536991785
+      Toad_16x16_114: -8507642156465903070
+      Toad_16x16_115: -8083847216125802295
+      Toad_16x16_116: 3076107949611038693
+      Toad_16x16_117: 5106785213021980752
+      Toad_16x16_118: -4085412581693708309
+      Toad_16x16_119: 2080629585178859434
+      Toad_16x16_12: 4258881524501905887
+      Toad_16x16_120: 2854376092750790078
+      Toad_16x16_121: -8886912456991590482
+      Toad_16x16_122: -9100605643031535410
+      Toad_16x16_123: -6222215969124930428
+      Toad_16x16_124: 8808353410077818736
+      Toad_16x16_125: -7352500340444023825
+      Toad_16x16_126: 9013536955573536567
+      Toad_16x16_127: 3410807929425361926
+      Toad_16x16_128: 5230624928954271235
+      Toad_16x16_129: -2711321622375084400
+      Toad_16x16_13: -510417522742969037
+      Toad_16x16_130: -8391212701501937935
+      Toad_16x16_131: -105002599646045891
+      Toad_16x16_132: 6745232419053504878
+      Toad_16x16_133: -4932520481731274950
+      Toad_16x16_134: -446378673501864365
+      Toad_16x16_135: -4738842227472123829
+      Toad_16x16_136: -9016500507583358177
+      Toad_16x16_137: -4468384686572115627
+      Toad_16x16_138: -1172273810065920453
+      Toad_16x16_139: -3885957408191158387
+      Toad_16x16_14: -7671033755373653051
+      Toad_16x16_140: 2774181135477163857
+      Toad_16x16_141: 1930677564397820198
+      Toad_16x16_142: 1437445629234159513
+      Toad_16x16_143: 9171957626624278678
+      Toad_16x16_144: -6129430649995275595
+      Toad_16x16_145: -4616358008253398525
+      Toad_16x16_146: -4852888171075135471
+      Toad_16x16_147: -3397323535425143454
+      Toad_16x16_148: -1276122928056749180
+      Toad_16x16_149: 4979919234238703904
+      Toad_16x16_15: -2903386903114631328
+      Toad_16x16_150: 2613090689264203233
+      Toad_16x16_151: 7604819705901788804
+      Toad_16x16_152: -1969822631050921929
+      Toad_16x16_153: -283960303491148441
+      Toad_16x16_154: -6720112213195900583
+      Toad_16x16_155: 5431862886430591690
+      Toad_16x16_156: -9198052791156818896
+      Toad_16x16_157: 8417611870033853226
+      Toad_16x16_158: 1687914561954054251
+      Toad_16x16_159: -1286035741748446795
+      Toad_16x16_16: 3333241936951359005
+      Toad_16x16_160: -7301584987739259962
+      Toad_16x16_161: -5711421029445952960
+      Toad_16x16_162: 9060639547930119260
+      Toad_16x16_163: -6148246690077648919
+      Toad_16x16_164: 2114534372243274782
+      Toad_16x16_165: 6236652878289674615
+      Toad_16x16_166: -8519300977968691004
+      Toad_16x16_167: -4672196019075355773
+      Toad_16x16_168: 4539168135961338379
+      Toad_16x16_169: 5150021521429342559
+      Toad_16x16_17: 5874196788719723800
+      Toad_16x16_170: 899062948058832586
+      Toad_16x16_171: -6106726871502202582
+      Toad_16x16_172: -8152585596771415351
+      Toad_16x16_173: -7209304245515394622
+      Toad_16x16_174: 5962364469939266063
+      Toad_16x16_175: 4580188291547068142
+      Toad_16x16_176: -2067592227051270172
+      Toad_16x16_177: 4507599289855918550
+      Toad_16x16_178: 1369776322155252184
+      Toad_16x16_179: 347225860808443590
+      Toad_16x16_18: 2688816780709097561
+      Toad_16x16_180: 3707452084348397523
+      Toad_16x16_181: -7418225707787915660
+      Toad_16x16_182: -3422807511728200168
+      Toad_16x16_183: 1953909256498174868
+      Toad_16x16_184: 4481459790927735978
+      Toad_16x16_185: -162250305229127305
+      Toad_16x16_186: -6511189003952867774
+      Toad_16x16_187: 1484265141722715337
+      Toad_16x16_188: 1609225720935704973
+      Toad_16x16_189: -5833883532010239085
+      Toad_16x16_19: -1450833815913267872
+      Toad_16x16_190: 4162380132756220639
+      Toad_16x16_191: 1146333499598232241
+      Toad_16x16_192: -1518941477161028444
+      Toad_16x16_193: -8239865255300576968
+      Toad_16x16_194: -4460551332971101656
+      Toad_16x16_195: 2223830519233889560
+      Toad_16x16_196: 5164766474889966011
+      Toad_16x16_197: 5994739146274007109
+      Toad_16x16_198: 6460387711020439444
+      Toad_16x16_199: -7934350791259710775
+      Toad_16x16_2: 8344323404049449685
+      Toad_16x16_20: 254303452022483165
+      Toad_16x16_200: -55815583816500811
+      Toad_16x16_201: 8151589116886222977
+      Toad_16x16_202: 3844926887104569708
+      Toad_16x16_203: 4298027939186596037
+      Toad_16x16_21: 3761027814603711306
+      Toad_16x16_22: 3887463176619638175
+      Toad_16x16_23: 7665034040400271208
+      Toad_16x16_24: -2560817389958270461
+      Toad_16x16_25: -1710278053776433370
+      Toad_16x16_26: -2041328885888696476
+      Toad_16x16_27: 5346075141741232070
+      Toad_16x16_28: -4676876444402915751
+      Toad_16x16_29: -5805051690263963622
+      Toad_16x16_3: -3064545538182344265
+      Toad_16x16_30: -579663945475870148
+      Toad_16x16_31: -2576743937939323145
+      Toad_16x16_32: -7285445743886112221
+      Toad_16x16_33: 9086453129520850415
+      Toad_16x16_34: -6809560913367265549
+      Toad_16x16_35: -1926124891612647742
+      Toad_16x16_36: -5139529257828883208
+      Toad_16x16_37: 184090936243722861
+      Toad_16x16_38: 9121082101432953887
+      Toad_16x16_39: 8010627415510597592
+      Toad_16x16_4: 1893372283165434280
+      Toad_16x16_40: 7875088174545485840
+      Toad_16x16_41: -4608601797670697634
+      Toad_16x16_42: -8824110307090839622
+      Toad_16x16_43: -5568771290264561550
+      Toad_16x16_44: 910888063276232665
+      Toad_16x16_45: 9146462654822999949
+      Toad_16x16_46: 1188469979275994367
+      Toad_16x16_47: -510822206683384395
+      Toad_16x16_48: -4377959368684469750
+      Toad_16x16_49: 379876192402611884
+      Toad_16x16_5: -5619343177066245841
+      Toad_16x16_50: 7156046935807371377
+      Toad_16x16_51: 9188844507843429500
+      Toad_16x16_52: -5655297855295401425
+      Toad_16x16_53: -7637133984238276526
+      Toad_16x16_54: 7195205398822331609
+      Toad_16x16_55: -502254321706400299
+      Toad_16x16_56: -3207918477314414911
+      Toad_16x16_57: 6660893847779108148
+      Toad_16x16_58: -8556171044321851575
+      Toad_16x16_59: -3970590815792470255
+      Toad_16x16_6: -4419052022217418079
+      Toad_16x16_60: 743747033966796199
+      Toad_16x16_61: -597923155779107409
+      Toad_16x16_62: -4704435887495985295
+      Toad_16x16_63: -7096545900114983080
+      Toad_16x16_64: 5272891648833136799
+      Toad_16x16_65: -222193532225351062
+      Toad_16x16_66: 6162226598395682199
+      Toad_16x16_67: -7433525138415561136
+      Toad_16x16_68: 4796547937742441353
+      Toad_16x16_69: -6322081551987262874
+      Toad_16x16_7: 5668539919942151184
+      Toad_16x16_70: 207986471650340631
+      Toad_16x16_71: 2080402384331766407
+      Toad_16x16_72: -8270661439180298220
+      Toad_16x16_73: -1407363417106765058
+      Toad_16x16_74: 7216581436652993892
+      Toad_16x16_75: 4717101786517968281
+      Toad_16x16_76: -3555833605727153696
+      Toad_16x16_77: -5610007032958441227
+      Toad_16x16_78: -8087127393479945485
+      Toad_16x16_79: 138753186211058436
+      Toad_16x16_8: -448465835659101192
+      Toad_16x16_80: 5612508461558549025
+      Toad_16x16_81: 1068823651222182441
+      Toad_16x16_82: -1389257567184398123
+      Toad_16x16_83: -5224551239671115884
+      Toad_16x16_84: -4320895952879829632
+      Toad_16x16_85: 3685363303016111013
+      Toad_16x16_86: 2298519560311873854
+      Toad_16x16_87: 7410489480289822553
+      Toad_16x16_88: 3567314826458314715
+      Toad_16x16_89: 2677800143447840343
+      Toad_16x16_9: 4229335315402764723
+      Toad_16x16_90: -3490561394311327681
+      Toad_16x16_91: -7063663415245706945
+      Toad_16x16_92: -4322741810559553829
+      Toad_16x16_93: 3128248034379424453
+      Toad_16x16_94: 4193538118549491204
+      Toad_16x16_95: 1503173682479480210
+      Toad_16x16_96: 4087765312934246308
+      Toad_16x16_97: -2707061709936100757
+      Toad_16x16_98: 126217567928445742
+      Toad_16x16_99: 6263838485131227480
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

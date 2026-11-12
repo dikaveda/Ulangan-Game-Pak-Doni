@@ -1,0 +1,8021 @@
+fileFormatVersion: 2
+guid: 3447f7a327b0a5e4eb953220a41cd375
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1657378947949796692
+    second: Shadow_16x16_0
+  - first:
+      213: -6077764268738959807
+    second: Shadow_16x16_1
+  - first:
+      213: 5825709543746221933
+    second: Shadow_16x16_2
+  - first:
+      213: 1020319791845067455
+    second: Shadow_16x16_3
+  - first:
+      213: 3321957341386157373
+    second: Shadow_16x16_4
+  - first:
+      213: -2323269353288699599
+    second: Shadow_16x16_5
+  - first:
+      213: 7759694244549767500
+    second: Shadow_16x16_6
+  - first:
+      213: 1377042591468581382
+    second: Shadow_16x16_7
+  - first:
+      213: 2278535347836906877
+    second: Shadow_16x16_8
+  - first:
+      213: -4945353695535830838
+    second: Shadow_16x16_9
+  - first:
+      213: 8385035406755929655
+    second: Shadow_16x16_10
+  - first:
+      213: 1299832741171192763
+    second: Shadow_16x16_11
+  - first:
+      213: 3264240980895359978
+    second: Shadow_16x16_12
+  - first:
+      213: 4566194815224916135
+    second: Shadow_16x16_13
+  - first:
+      213: -3918152804584211714
+    second: Shadow_16x16_14
+  - first:
+      213: -7617913340360267698
+    second: Shadow_16x16_15
+  - first:
+      213: -3398443804141940210
+    second: Shadow_16x16_16
+  - first:
+      213: -2110083096968711469
+    second: Shadow_16x16_17
+  - first:
+      213: -1837066104823118147
+    second: Shadow_16x16_18
+  - first:
+      213: -7385236554191342944
+    second: Shadow_16x16_19
+  - first:
+      213: -4459470731843438520
+    second: Shadow_16x16_20
+  - first:
+      213: -4702741479490726086
+    second: Shadow_16x16_21
+  - first:
+      213: -5852796053728111631
+    second: Shadow_16x16_22
+  - first:
+      213: 5105678447716984788
+    second: Shadow_16x16_23
+  - first:
+      213: 6391099099189030704
+    second: Shadow_16x16_24
+  - first:
+      213: -6689915817575178855
+    second: Shadow_16x16_25
+  - first:
+      213: 4473313715477404703
+    second: Shadow_16x16_26
+  - first:
+      213: 8135021898490040215
+    second: Shadow_16x16_27
+  - first:
+      213: -9038665469925899524
+    second: Shadow_16x16_28
+  - first:
+      213: 6619343506454640651
+    second: Shadow_16x16_29
+  - first:
+      213: 5513402890566903427
+    second: Shadow_16x16_30
+  - first:
+      213: 1601259233931998210
+    second: Shadow_16x16_31
+  - first:
+      213: 6073896798343376485
+    second: Shadow_16x16_32
+  - first:
+      213: -6698298745086079542
+    second: Shadow_16x16_33
+  - first:
+      213: -6504226105933740997
+    second: Shadow_16x16_34
+  - first:
+      213: -8585690860056579311
+    second: Shadow_16x16_35
+  - first:
+      213: -5049151720086089596
+    second: Shadow_16x16_36
+  - first:
+      213: -828511170753688327
+    second: Shadow_16x16_37
+  - first:
+      213: -439965204897584492
+    second: Shadow_16x16_38
+  - first:
+      213: -3523148422637198241
+    second: Shadow_16x16_39
+  - first:
+      213: 2015679132510289490
+    second: Shadow_16x16_40
+  - first:
+      213: -5905804651563302167
+    second: Shadow_16x16_41
+  - first:
+      213: 6503396928277067484
+    second: Shadow_16x16_42
+  - first:
+      213: -215677173077813009
+    second: Shadow_16x16_43
+  - first:
+      213: 4632532296947380798
+    second: Shadow_16x16_44
+  - first:
+      213: 2131069024758903288
+    second: Shadow_16x16_45
+  - first:
+      213: 7089516226108076258
+    second: Shadow_16x16_46
+  - first:
+      213: -5146070806291957121
+    second: Shadow_16x16_47
+  - first:
+      213: 2061774677782361204
+    second: Shadow_16x16_48
+  - first:
+      213: -3535805024762854783
+    second: Shadow_16x16_49
+  - first:
+      213: -2646167927123352201
+    second: Shadow_16x16_50
+  - first:
+      213: 7011967672866929798
+    second: Shadow_16x16_51
+  - first:
+      213: 3209147595605946563
+    second: Shadow_16x16_52
+  - first:
+      213: -5839228546278908732
+    second: Shadow_16x16_53
+  - first:
+      213: -1128361063152095964
+    second: Shadow_16x16_54
+  - first:
+      213: 7961874266610449416
+    second: Shadow_16x16_55
+  - first:
+      213: 4884655064863372344
+    second: Shadow_16x16_56
+  - first:
+      213: -3959618870202369194
+    second: Shadow_16x16_57
+  - first:
+      213: -6635093337560532812
+    second: Shadow_16x16_58
+  - first:
+      213: 2059449312958715407
+    second: Shadow_16x16_59
+  - first:
+      213: 1897804987044705443
+    second: Shadow_16x16_60
+  - first:
+      213: 3008475185332726105
+    second: Shadow_16x16_61
+  - first:
+      213: 6463571569122697855
+    second: Shadow_16x16_62
+  - first:
+      213: 3125615658462006202
+    second: Shadow_16x16_63
+  - first:
+      213: -5212276904322363206
+    second: Shadow_16x16_64
+  - first:
+      213: 1571342985433038247
+    second: Shadow_16x16_65
+  - first:
+      213: -6436694881565945105
+    second: Shadow_16x16_66
+  - first:
+      213: -1573273501225129961
+    second: Shadow_16x16_67
+  - first:
+      213: 1187647380765374827
+    second: Shadow_16x16_68
+  - first:
+      213: 7941906830061276939
+    second: Shadow_16x16_69
+  - first:
+      213: 1717288374624582985
+    second: Shadow_16x16_70
+  - first:
+      213: -9057365990962742667
+    second: Shadow_16x16_71
+  - first:
+      213: -3938675417474638071
+    second: Shadow_16x16_72
+  - first:
+      213: 6102432732004758304
+    second: Shadow_16x16_73
+  - first:
+      213: -6891571157344469227
+    second: Shadow_16x16_74
+  - first:
+      213: -2195224478449181690
+    second: Shadow_16x16_75
+  - first:
+      213: -8256884010335954174
+    second: Shadow_16x16_76
+  - first:
+      213: 6932361347122549938
+    second: Shadow_16x16_77
+  - first:
+      213: 7921311190376204917
+    second: Shadow_16x16_78
+  - first:
+      213: 1220458121071451955
+    second: Shadow_16x16_79
+  - first:
+      213: 1308586089165248756
+    second: Shadow_16x16_80
+  - first:
+      213: 7004943568891567557
+    second: Shadow_16x16_81
+  - first:
+      213: 8286135540517000569
+    second: Shadow_16x16_82
+  - first:
+      213: -9098861018977037921
+    second: Shadow_16x16_83
+  - first:
+      213: -4263514406431815679
+    second: Shadow_16x16_84
+  - first:
+      213: -9049531670171225253
+    second: Shadow_16x16_85
+  - first:
+      213: -8312688420470801540
+    second: Shadow_16x16_86
+  - first:
+      213: -1207257359640882635
+    second: Shadow_16x16_87
+  - first:
+      213: 2107603620413447925
+    second: Shadow_16x16_88
+  - first:
+      213: -6588087798802442644
+    second: Shadow_16x16_89
+  - first:
+      213: -2198498758455202921
+    second: Shadow_16x16_90
+  - first:
+      213: 2544333288486249142
+    second: Shadow_16x16_91
+  - first:
+      213: -5798470195670390296
+    second: Shadow_16x16_92
+  - first:
+      213: 7734118043404546866
+    second: Shadow_16x16_93
+  - first:
+      213: 7918990556783041317
+    second: Shadow_16x16_94
+  - first:
+      213: 843688254307105704
+    second: Shadow_16x16_95
+  - first:
+      213: -4677967117965432752
+    second: Shadow_16x16_96
+  - first:
+      213: 4984064872757116439
+    second: Shadow_16x16_97
+  - first:
+      213: 65547581443344152
+    second: Shadow_16x16_98
+  - first:
+      213: 1478620835180714169
+    second: Shadow_16x16_99
+  - first:
+      213: -3071019698118454800
+    second: Shadow_16x16_100
+  - first:
+      213: 1368135206907400378
+    second: Shadow_16x16_101
+  - first:
+      213: -5722103098554435556
+    second: Shadow_16x16_102
+  - first:
+      213: 6324048082707059340
+    second: Shadow_16x16_103
+  - first:
+      213: 2117861812111502454
+    second: Shadow_16x16_104
+  - first:
+      213: 4843545896441737667
+    second: Shadow_16x16_105
+  - first:
+      213: -3513876163099161231
+    second: Shadow_16x16_106
+  - first:
+      213: 702013241694198894
+    second: Shadow_16x16_107
+  - first:
+      213: -4097171511712007204
+    second: Shadow_16x16_108
+  - first:
+      213: -3064952128468026768
+    second: Shadow_16x16_109
+  - first:
+      213: 39415014847838545
+    second: Shadow_16x16_110
+  - first:
+      213: 1849365391580138702
+    second: Shadow_16x16_111
+  - first:
+      213: 7763090447573861206
+    second: Shadow_16x16_112
+  - first:
+      213: -6225356050265635973
+    second: Shadow_16x16_113
+  - first:
+      213: 7894773674796172767
+    second: Shadow_16x16_114
+  - first:
+      213: -8316754636541426803
+    second: Shadow_16x16_115
+  - first:
+      213: -8218480228077640608
+    second: Shadow_16x16_116
+  - first:
+      213: 6947984094548773178
+    second: Shadow_16x16_117
+  - first:
+      213: -1744381880924204821
+    second: Shadow_16x16_118
+  - first:
+      213: -6807525300875964490
+    second: Shadow_16x16_119
+  - first:
+      213: 84641075433596583
+    second: Shadow_16x16_120
+  - first:
+      213: -7846607599636640068
+    second: Shadow_16x16_121
+  - first:
+      213: 2241623411809413004
+    second: Shadow_16x16_122
+  - first:
+      213: -1181592216837476574
+    second: Shadow_16x16_123
+  - first:
+      213: 3161992022448158586
+    second: Shadow_16x16_124
+  - first:
+      213: 3832340372544180892
+    second: Shadow_16x16_125
+  - first:
+      213: 3796227356396105004
+    second: Shadow_16x16_126
+  - first:
+      213: 1307914351491398059
+    second: Shadow_16x16_127
+  - first:
+      213: -503532126524565962
+    second: Shadow_16x16_128
+  - first:
+      213: -1581591902079759317
+    second: Shadow_16x16_129
+  - first:
+      213: -7471718050547532075
+    second: Shadow_16x16_130
+  - first:
+      213: -5852240828033074764
+    second: Shadow_16x16_131
+  - first:
+      213: 4202537740490352474
+    second: Shadow_16x16_132
+  - first:
+      213: -4573269942194581628
+    second: Shadow_16x16_133
+  - first:
+      213: 5613877656441764171
+    second: Shadow_16x16_134
+  - first:
+      213: -2718877495190501080
+    second: Shadow_16x16_135
+  - first:
+      213: -8959835882746158140
+    second: Shadow_16x16_136
+  - first:
+      213: 4321282593034809783
+    second: Shadow_16x16_137
+  - first:
+      213: 2816331841782193763
+    second: Shadow_16x16_138
+  - first:
+      213: -9040388783063909894
+    second: Shadow_16x16_139
+  - first:
+      213: -4967217947831847080
+    second: Shadow_16x16_140
+  - first:
+      213: 1532211387585703802
+    second: Shadow_16x16_141
+  - first:
+      213: 618585544686644731
+    second: Shadow_16x16_142
+  - first:
+      213: 5617391561300740398
+    second: Shadow_16x16_143
+  - first:
+      213: 5135250760580257718
+    second: Shadow_16x16_144
+  - first:
+      213: 863075512881238703
+    second: Shadow_16x16_145
+  - first:
+      213: 7205721437778669479
+    second: Shadow_16x16_146
+  - first:
+      213: 3456430870831868663
+    second: Shadow_16x16_147
+  - first:
+      213: -3008594467301611061
+    second: Shadow_16x16_148
+  - first:
+      213: 6623670273884550394
+    second: Shadow_16x16_149
+  - first:
+      213: -7772021277263544604
+    second: Shadow_16x16_150
+  - first:
+      213: 379252501584577169
+    second: Shadow_16x16_151
+  - first:
+      213: -6784838175530682012
+    second: Shadow_16x16_152
+  - first:
+      213: 5933806387266234417
+    second: Shadow_16x16_153
+  - first:
+      213: -8907865405177653468
+    second: Shadow_16x16_154
+  - first:
+      213: 9161066304632303605
+    second: Shadow_16x16_155
+  - first:
+      213: 8980337557675146518
+    second: Shadow_16x16_156
+  - first:
+      213: 2674703926621444507
+    second: Shadow_16x16_157
+  - first:
+      213: 861696861968129624
+    second: Shadow_16x16_158
+  - first:
+      213: -4931963742055068601
+    second: Shadow_16x16_159
+  - first:
+      213: 3629495608037049619
+    second: Shadow_16x16_160
+  - first:
+      213: 1376261839614006918
+    second: Shadow_16x16_161
+  - first:
+      213: 4397830638890662492
+    second: Shadow_16x16_162
+  - first:
+      213: -8691158774113827352
+    second: Shadow_16x16_163
+  - first:
+      213: 5544749292535480388
+    second: Shadow_16x16_164
+  - first:
+      213: 5761530159640439338
+    second: Shadow_16x16_165
+  - first:
+      213: -2450895047112796623
+    second: Shadow_16x16_166
+  - first:
+      213: -9138262795901555459
+    second: Shadow_16x16_167
+  - first:
+      213: 8939396703575447170
+    second: Shadow_16x16_168
+  - first:
+      213: -5869476966697525773
+    second: Shadow_16x16_169
+  - first:
+      213: 1025780680854534257
+    second: Shadow_16x16_170
+  - first:
+      213: 1113815780560296464
+    second: Shadow_16x16_171
+  - first:
+      213: -8261913746819481608
+    second: Shadow_16x16_172
+  - first:
+      213: -2868813860343859593
+    second: Shadow_16x16_173
+  - first:
+      213: -386981552561091390
+    second: Shadow_16x16_174
+  - first:
+      213: -5285680035991951618
+    second: Shadow_16x16_175
+  - first:
+      213: 6757564940989928606
+    second: Shadow_16x16_176
+  - first:
+      213: 4381077852663864745
+    second: Shadow_16x16_177
+  - first:
+      213: 2485051537797553494
+    second: Shadow_16x16_178
+  - first:
+      213: -2315002521703186682
+    second: Shadow_16x16_179
+  - first:
+      213: 7283321767530222946
+    second: Shadow_16x16_180
+  - first:
+      213: -3848124671824312732
+    second: Shadow_16x16_181
+  - first:
+      213: 6562677164996464262
+    second: Shadow_16x16_182
+  - first:
+      213: -5290814505353010279
+    second: Shadow_16x16_183
+  - first:
+      213: -6939636731093175484
+    second: Shadow_16x16_184
+  - first:
+      213: 6978885638955239429
+    second: Shadow_16x16_185
+  - first:
+      213: 1508356559761964512
+    second: Shadow_16x16_186
+  - first:
+      213: 260313901994780679
+    second: Shadow_16x16_187
+  - first:
+      213: 2712297008286248314
+    second: Shadow_16x16_188
+  - first:
+      213: 5595565558182576358
+    second: Shadow_16x16_189
+  - first:
+      213: -7930216460240431794
+    second: Shadow_16x16_190
+  - first:
+      213: -813419877914589660
+    second: Shadow_16x16_191
+  - first:
+      213: 8262576194368968864
+    second: Shadow_16x16_192
+  - first:
+      213: -167712659028431590
+    second: Shadow_16x16_193
+  - first:
+      213: -5182232226129561354
+    second: Shadow_16x16_194
+  - first:
+      213: 7182936711693852416
+    second: Shadow_16x16_195
+  - first:
+      213: 3044598755127243377
+    second: Shadow_16x16_196
+  - first:
+      213: -7250002997607079889
+    second: Shadow_16x16_197
+  - first:
+      213: 463417242347765614
+    second: Shadow_16x16_198
+  - first:
+      213: -5341056348924300571
+    second: Shadow_16x16_199
+  - first:
+      213: 6758931806508676432
+    second: Shadow_16x16_200
+  - first:
+      213: -1967202445667233816
+    second: Shadow_16x16_201
+  - first:
+      213: 4498216812684424511
+    second: Shadow_16x16_202
+  - first:
+      213: 6664771194091150903
+    second: Shadow_16x16_203
+  - first:
+      213: -665803350476140593
+    second: Shadow_16x16_204
+  - first:
+      213: 3555693290801944855
+    second: Shadow_16x16_205
+  - first:
+      213: -1572553224649606101
+    second: Shadow_16x16_206
+  - first:
+      213: -2640246421925999712
+    second: Shadow_16x16_207
+  - first:
+      213: 2739864158703666301
+    second: Shadow_16x16_208
+  - first:
+      213: -6052167351064569859
+    second: Shadow_16x16_209
+  - first:
+      213: -8589459857420738766
+    second: Shadow_16x16_210
+  - first:
+      213: -827215271378697371
+    second: Shadow_16x16_211
+  - first:
+      213: 9057067566280608936
+    second: Shadow_16x16_212
+  - first:
+      213: 4750104858445043029
+    second: Shadow_16x16_213
+  - first:
+      213: 9161818041363886007
+    second: Shadow_16x16_214
+  - first:
+      213: -9039663710339503314
+    second: Shadow_16x16_215
+  - first:
+      213: 4606215659198954124
+    second: Shadow_16x16_216
+  - first:
+      213: -4386540521789443500
+    second: Shadow_16x16_217
+  - first:
+      213: -783726187057583972
+    second: Shadow_16x16_218
+  - first:
+      213: 5024150984096743057
+    second: Shadow_16x16_219
+  - first:
+      213: -1186178761073436215
+    second: Shadow_16x16_220
+  - first:
+      213: 943650840092938537
+    second: Shadow_16x16_221
+  - first:
+      213: -6223208160536443709
+    second: Shadow_16x16_222
+  - first:
+      213: -6785353597575700692
+    second: Shadow_16x16_223
+  - first:
+      213: -2852125754437939294
+    second: Shadow_16x16_224
+  - first:
+      213: -569918777548865001
+    second: Shadow_16x16_225
+  - first:
+      213: 7134721449514305994
+    second: Shadow_16x16_226
+  - first:
+      213: -3364524927173085863
+    second: Shadow_16x16_227
+  - first:
+      213: 8549075099476696545
+    second: Shadow_16x16_228
+  - first:
+      213: -3254601815255894089
+    second: Shadow_16x16_229
+  - first:
+      213: 7221687351778400308
+    second: Shadow_16x16_230
+  - first:
+      213: 2904940157770789107
+    second: Shadow_16x16_231
+  - first:
+      213: 1391143300768969863
+    second: Shadow_16x16_232
+  - first:
+      213: 1036063362797251453
+    second: Shadow_16x16_233
+  - first:
+      213: 6367700200602019126
+    second: Shadow_16x16_234
+  - first:
+      213: 5399271905223493604
+    second: Shadow_16x16_235
+  - first:
+      213: -4974225472713164632
+    second: Shadow_16x16_236
+  - first:
+      213: 6700901028983332386
+    second: Shadow_16x16_237
+  - first:
+      213: 5445605582141210393
+    second: Shadow_16x16_238
+  - first:
+      213: 8622197746777631328
+    second: Shadow_16x16_239
+  - first:
+      213: -4616252678394139011
+    second: Shadow_16x16_240
+  - first:
+      213: 9108458633867589760
+    second: Shadow_16x16_241
+  - first:
+      213: -3781531130289722875
+    second: Shadow_16x16_242
+  - first:
+      213: -7776808330932004655
+    second: Shadow_16x16_243
+  - first:
+      213: 8135486901308571549
+    second: Shadow_16x16_244
+  - first:
+      213: -3987471253205789632
+    second: Shadow_16x16_245
+  - first:
+      213: 4313814298404308239
+    second: Shadow_16x16_246
+  - first:
+      213: -4142536364892433374
+    second: Shadow_16x16_247
+  - first:
+      213: -1572745165222586850
+    second: Shadow_16x16_248
+  - first:
+      213: -140431947952227869
+    second: Shadow_16x16_249
+  - first:
+      213: -5486410084572110209
+    second: Shadow_16x16_250
+  - first:
+      213: 6366853127492543867
+    second: Shadow_16x16_251
+  - first:
+      213: 2707159842181300019
+    second: Shadow_16x16_252
+  - first:
+      213: 219037932003175098
+    second: Shadow_16x16_253
+  - first:
+      213: -7555489187642381278
+    second: Shadow_16x16_254
+  - first:
+      213: -8524093767861520097
+    second: Shadow_16x16_255
+  - first:
+      213: 4419656544552660315
+    second: Shadow_16x16_256
+  - first:
+      213: 289636900417548325
+    second: Shadow_16x16_257
+  - first:
+      213: -2728325851361962622
+    second: Shadow_16x16_258
+  - first:
+      213: -8984383280164744419
+    second: Shadow_16x16_259
+  - first:
+      213: -2750919909567502871
+    second: Shadow_16x16_260
+  - first:
+      213: 8795497462974943057
+    second: Shadow_16x16_261
+  - first:
+      213: 9178602463331826679
+    second: Shadow_16x16_262
+  - first:
+      213: 4202861199852073903
+    second: Shadow_16x16_263
+  - first:
+      213: 7383865606181362064
+    second: Shadow_16x16_264
+  - first:
+      213: -1929097307332270014
+    second: Shadow_16x16_265
+  - first:
+      213: -6172018607761823303
+    second: Shadow_16x16_266
+  - first:
+      213: 6073747119996701719
+    second: Shadow_16x16_267
+  - first:
+      213: -42169994311738377
+    second: Shadow_16x16_268
+  - first:
+      213: -4569190177336571763
+    second: Shadow_16x16_269
+  - first:
+      213: 7615202220610235627
+    second: Shadow_16x16_270
+  - first:
+      213: 630634903698314682
+    second: Shadow_16x16_271
+  - first:
+      213: -8310045557346284089
+    second: Shadow_16x16_272
+  - first:
+      213: -359964910177747825
+    second: Shadow_16x16_273
+  - first:
+      213: 9082986343037309693
+    second: Shadow_16x16_274
+  - first:
+      213: -3217900774043882107
+    second: Shadow_16x16_275
+  - first:
+      213: 911286441447090930
+    second: Shadow_16x16_276
+  - first:
+      213: 2665263684096174922
+    second: Shadow_16x16_277
+  - first:
+      213: -7642157786458444736
+    second: Shadow_16x16_278
+  - first:
+      213: 2972569344951018007
+    second: Shadow_16x16_279
+  - first:
+      213: 6303569782929420544
+    second: Shadow_16x16_280
+  - first:
+      213: -1766515892643913088
+    second: Shadow_16x16_281
+  - first:
+      213: -8706382586155668505
+    second: Shadow_16x16_282
+  - first:
+      213: 914422245914109520
+    second: Shadow_16x16_283
+  - first:
+      213: -3900241059488693019
+    second: Shadow_16x16_284
+  - first:
+      213: -2637274704005237526
+    second: Shadow_16x16_285
+  - first:
+      213: 8420958999451541206
+    second: Shadow_16x16_286
+  - first:
+      213: -2438962000823557539
+    second: Shadow_16x16_287
+  - first:
+      213: -4893952827874217710
+    second: Shadow_16x16_288
+  - first:
+      213: 1920675644880387486
+    second: Shadow_16x16_289
+  - first:
+      213: 3823071683921276149
+    second: Shadow_16x16_290
+  - first:
+      213: -4387749916555970362
+    second: Shadow_16x16_291
+  - first:
+      213: 1053698111015846794
+    second: Shadow_16x16_292
+  - first:
+      213: -8927617012272534401
+    second: Shadow_16x16_293
+  - first:
+      213: 6408495823845792081
+    second: Shadow_16x16_294
+  - first:
+      213: -2263117127775466058
+    second: Shadow_16x16_295
+  - first:
+      213: 6071307088392811552
+    second: Shadow_16x16_296
+  - first:
+      213: 1933811796650964753
+    second: Shadow_16x16_297
+  - first:
+      213: 7329939207010666382
+    second: Shadow_16x16_298
+  - first:
+      213: 474912541619468331
+    second: Shadow_16x16_299
+  - first:
+      213: 4162719633449008488
+    second: Shadow_16x16_300
+  - first:
+      213: -3278827471265836013
+    second: Shadow_16x16_301
+  - first:
+      213: 3463135763472415125
+    second: Shadow_16x16_302
+  - first:
+      213: 3598345622949706652
+    second: Shadow_16x16_303
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shadow_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2ed35c0aecff8e0800000000000000
+      internalID: -1657378947949796692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146a045599177aba0800000000000000
+      internalID: -6077764268738959807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b89fc6f319d050800000000000000
+      internalID: 5825709543746221933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 303
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbac93ed177e82e00800000000000000
+      internalID: 1020319791845067455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3da25cf996f91e20800000000000000
+      internalID: 3321957341386157373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 303
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131fca715d612cfd0800000000000000
+      internalID: -2323269353288699599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 303
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4138048dc8ffab60800000000000000
+      internalID: 7759694244549767500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 303
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6027119e0fc3c1310800000000000000
+      internalID: 1377042591468581382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 303
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d6dff93dbfe9f10800000000000000
+      internalID: 2278535347836906877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 303
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8ebe8f3039e5bb0800000000000000
+      internalID: -4945353695535830838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 304
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e92c0d641ad5470800000000000000
+      internalID: 8385035406755929655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 303
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb36ee4cdfee90210800000000000000
+      internalID: 1299832741171192763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 304
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae36a8f90e9ec4d20800000000000000
+      internalID: 3264240980895359978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 303
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a826b0edf16e5f30800000000000000
+      internalID: 4566194815224916135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 287
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efabe0398ccef99c0800000000000000
+      internalID: -3918152804584211714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 303
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48ed1aad2cb74690800000000000000
+      internalID: -7617913340360267698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 303
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e021ef8ad5d46d0d0800000000000000
+      internalID: -3398443804141940210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 304
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2bf9e5a9a77b2e0800000000000000
+      internalID: -2110083096968711469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 303
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db68b116c1e6186e0800000000000000
+      internalID: -1837066104823118147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 303
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2f13d8b7e528990800000000000000
+      internalID: -7385236554191342944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84878362ff6cc12c0800000000000000
+      internalID: -4459470731843438520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 287
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37d5746a818cbeb0800000000000000
+      internalID: -4702741479490726086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f35ab2aff0b6cea0800000000000000
+      internalID: -5852796053728111631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 287
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7e9854f730bd640800000000000000
+      internalID: 5105678447716984788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 287
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f2b7be4ceb1b850800000000000000
+      internalID: 6391099099189030704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 288
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d1a243205a823a0800000000000000
+      internalID: -6689915817575178855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 287
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cd9e3af17641e30800000000000000
+      internalID: 4473313715477404703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 288
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fc583c05765e070800000000000000
+      internalID: 8135021898490040215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 287
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf24a7dd4a5309280800000000000000
+      internalID: -9038665469925899524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 271
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08748c29d1acdb50800000000000000
+      internalID: 6619343506454640651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 287
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3862adbb7ba838c40800000000000000
+      internalID: 5513402890566903427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 287
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b4d71ac0d83610800000000000000
+      internalID: 1601259233931998210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 288
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea3ab05f0da4450800000000000000
+      internalID: 6073896798343376485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 287
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd03bbc7ccda03a0800000000000000
+      internalID: -6698298745086079542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 287
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b344ff841d85cb5a0800000000000000
+      internalID: -6504226105933740997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1137207d6af79d880800000000000000
+      internalID: -8585690860056579311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 271
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480573b134fcde9b0800000000000000
+      internalID: -5049151720086089596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc88c6da798084f0800000000000000
+      internalID: -828511170753688327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 271
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a2c882afde4e9f0800000000000000
+      internalID: -439965204897584492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 271
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f546bb11d234b1fc0800000000000000
+      internalID: -3523148422637198241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 272
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e7172dd7129fb10800000000000000
+      internalID: 2015679132510289490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 271
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e248bea5fd5a0ea0800000000000000
+      internalID: -5905804651563302167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 272
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6325fbc05b04a50800000000000000
+      internalID: 6503396928277067484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 271
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe85988f0c2c10df0800000000000000
+      internalID: -215677173077813009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 255
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32b212749f0a4040800000000000000
+      internalID: 4632532296947380798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 271
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1b794bcf3139d10800000000000000
+      internalID: 2131069024758903288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 271
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e03a8e1275036260800000000000000
+      internalID: 7089516226108076258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 272
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ab5f1eddb7598b0800000000000000
+      internalID: -5146070806291957121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 271
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474fc1c4525ec9c10800000000000000
+      internalID: 2061774677782361204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 271
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18208ff301c4eeec0800000000000000
+      internalID: -3535805024762854783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 255
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775e7cf4a4ce64bd0800000000000000
+      internalID: -2646167927123352201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 255
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c71cd82738f4160800000000000000
+      internalID: 7011967672866929798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 255
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c034e34cbe298c20800000000000000
+      internalID: 3209147595605946563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 255
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc99b02394e6fea0800000000000000
+      internalID: -5839228546278908732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 255
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42def6467914750f0800000000000000
+      internalID: -1128361063152095964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 256
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cb3af26724e7e60800000000000000
+      internalID: 7961874266610449416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 255
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8347e77c6e7c9c340800000000000000
+      internalID: 4884655064863372344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 256
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b77a3dd9b9c09c0800000000000000
+      internalID: -3959618870202369194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 255
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b42383c96be3a0800000000000000
+      internalID: -6635093337560532812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0693db1d32a49c10800000000000000
+      internalID: 2059449312958715407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 255
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4b3c9a49b565a10800000000000000
+      internalID: 1897804987044705443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 255
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959a551dd3040c920800000000000000
+      internalID: 3008475185332726105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 256
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f726fddb81833b950800000000000000
+      internalID: 6463571569122697855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 255
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbc60391ea606b20800000000000000
+      internalID: 3125615658462006202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 255
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab094e675c54aa7b0800000000000000
+      internalID: -5212276904322363206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adb903be188ec510800000000000000
+      internalID: 1571342985433038247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2dfa8bb144ca6a0800000000000000
+      internalID: -6436694881565945105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 239
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718e0f0161c9a2ae0800000000000000
+      internalID: -1573273501225129961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6971f8100f5b7010800000000000000
+      internalID: 1187647380765374827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 239
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f0d051f22573e60800000000000000
+      internalID: 7941906830061276939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 240
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94df76a9da805d710800000000000000
+      internalID: 1717288374624582985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 239
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a36f38e95cd4280800000000000000
+      internalID: -9057365990962742667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 240
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f5cd763930759c0800000000000000
+      internalID: -3938675417474638071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 239
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0233cd8dc3230b450800000000000000
+      internalID: 6102432732004758304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 223
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fb726ab883c50a0800000000000000
+      internalID: -6891571157344469227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 239
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c5bc7b7fef881e0800000000000000
+      internalID: -2195224478449181690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 239
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b925c4db7a96d80800000000000000
+      internalID: -8256884010335954174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 240
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b453ed7ae1b43060800000000000000
+      internalID: 6932361347122549938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 239
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a43b90f862eed60800000000000000
+      internalID: 7921311190376204917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 239
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f54b1e130ffe010800000000000000
+      internalID: 1220458121071451955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f856ba6d18092210800000000000000
+      internalID: 1308586089165248756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 223
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd5077ef0f863160800000000000000
+      internalID: 7004943568891567557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975514d4f544ef270800000000000000
+      internalID: 8286135540517000569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91993f6c1a5ab180800000000000000
+      internalID: -9098861018977037921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 223
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1080fd58c34f4d4c0800000000000000
+      internalID: -4263514406431815679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53fbc774ea996280800000000000000
+      internalID: -9049531670171225253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 223
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bb5519ce563ac80800000000000000
+      internalID: -8312688420470801540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 224
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5321126e3d5fe3fe0800000000000000
+      internalID: -1207257359640882635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe12128356bf3d10800000000000000
+      internalID: 2107603620413447925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c669b4b5d096294a0800000000000000
+      internalID: -6588087798802442644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79be32ff60d5d71e0800000000000000
+      internalID: -2198498758455202921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 223
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2ac6a35a94f4320800000000000000
+      internalID: 2544333288486249142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 224
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e960622412b78fa0800000000000000
+      internalID: -5798470195670390296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 223
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2333114226b155b60800000000000000
+      internalID: 7734118043404546866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 223
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bd9bc64f7e5ed60800000000000000
+      internalID: 7918990556783041317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abf42b4ff165bb00800000000000000
+      internalID: 843688254307105704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05866bee0b5841fb0800000000000000
+      internalID: -4677967117965432752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eb0365894fa2540800000000000000
+      internalID: 4984064872757116439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81701d39d2fd8e000800000000000000
+      internalID: 65547581443344152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b81076c0dd158410800000000000000
+      internalID: 1478620835180714169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 208
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f11c630bdb8165d0800000000000000
+      internalID: -3071019698118454800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0db64d8b79cf210800000000000000
+      internalID: 1368135206907400378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 208
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1830828c810790b0800000000000000
+      internalID: -5722103098554435556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c829e38993883c750800000000000000
+      internalID: 6324048082707059340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 191
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c6542e818246d10800000000000000
+      internalID: 2117861812111502454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 207
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1f5b2a45bb73340800000000000000
+      internalID: 4843545896441737667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 207
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d03c93f343c3fc0800000000000000
+      internalID: -3513876163099161231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 208
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c9dcae25d0eb900800000000000000
+      internalID: 702013241694198894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 207
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb3e84c73ce327c0800000000000000
+      internalID: -4097171511712007204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 207
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07af519274a1775d0800000000000000
+      internalID: -3064952128468026768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 191
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15972d64fb70c8000800000000000000
+      internalID: 39415014847838545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 191
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc090976044aa910800000000000000
+      internalID: 1849365391580138702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 191
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6534ed6a1a90cbb60800000000000000
+      internalID: 7763090447573861206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 191
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b738697d7a71b99a0800000000000000
+      internalID: -6225356050265635973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 191
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5c45434dedf8d60800000000000000
+      internalID: 7894773674796172767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 192
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d838ddcd8b3f49c80800000000000000
+      internalID: -8316754636541426803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 191
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0646cd3a6c712fd80800000000000000
+      internalID: -8218480228077640608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 192
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39c4a4d8b23c6060800000000000000
+      internalID: 6947984094548773178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 191
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be092e2ebe5bac7e0800000000000000
+      internalID: -1744381880924204821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 175
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfcdc18ecfc681a0800000000000000
+      internalID: -6807525300875964490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 191
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a660a21c94bc2100800000000000000
+      internalID: 84641075433596583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 191
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe07c316ff3b1390800000000000000
+      internalID: -7846607599636640068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 192
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87691dcd98db1f10800000000000000
+      internalID: 2241623411809413004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 191
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f290e93242a9fe0800000000000000
+      internalID: -1181592216837476574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 191
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7734a0ddf6a1eb20800000000000000
+      internalID: 3161992022448158586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 175
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9252e3a3453f2530800000000000000
+      internalID: 3832340372544180892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 175
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d2c98daa8eea430800000000000000
+      internalID: 3796227356396105004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 175
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9b74d4c25a62210800000000000000
+      internalID: 1307914351491398059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_128
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 175
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6369181e2381309f0800000000000000
+      internalID: -503532126524565962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_129
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 175
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cc6e07b8e0d0ae0800000000000000
+      internalID: -1581591902079759317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_130
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 176
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de7d3715002f4890800000000000000
+      internalID: -7471718050547532075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_131
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 175
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9fc0139f9a8cea0800000000000000
+      internalID: -5852240828033074764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_132
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 176
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57a9191fc9625a30800000000000000
+      internalID: 4202537740490352474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_133
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 175
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f4581c73b7880c0800000000000000
+      internalID: -4573269942194581628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_134
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 159
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49b6b42cff78ed40800000000000000
+      internalID: 5613877656441764171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_135
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 175
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829cd57c25b944ad0800000000000000
+      internalID: -2718877495190501080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_136
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 175
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3ed136cb448a380800000000000000
+      internalID: -8959835882746158140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_137
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 176
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b13beb8f9748fb30800000000000000
+      internalID: 4321282593034809783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_138
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 175
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e9c0773ee951720800000000000000
+      internalID: 2816331841782193763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_139
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 175
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9bc02cc461a8280800000000000000
+      internalID: -9040388783063909894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 159
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857b9890895e01bb0800000000000000
+      internalID: -4967217947831847080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_141
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 159
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7faad59322834510800000000000000
+      internalID: 1532211387585703802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_142
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 159
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd2d368648a59800800000000000000
+      internalID: 618585544686644731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_143
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 159
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e298b9fdcdbf4fd40800000000000000
+      internalID: 5617391561300740398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_144
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 159
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7d0f8eb53144740800000000000000
+      internalID: 5135250760580257718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_145
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 160
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2df9f2b924afb00800000000000000
+      internalID: 863075512881238703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_146
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 159
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afe639587ddff360800000000000000
+      internalID: 7205721437778669479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_147
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 160
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faa0a66095b7ff20800000000000000
+      internalID: 3456430870831868663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_148
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 159
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9284fa5435f36d0800000000000000
+      internalID: -3008594467301611061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_149
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4f33835010ceb50800000000000000
+      internalID: 6623670273884550394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_150
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eebde583db342490800000000000000
+      internalID: -7772021277263544604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_151
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 159
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192802d0420634500800000000000000
+      internalID: 379252501584577169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_152
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469fbf080a967d1a0800000000000000
+      internalID: -6784838175530682012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_153
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 159
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138a2f6787d195250800000000000000
+      internalID: 5933806387266234417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_154
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 159
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42715612c97e06480800000000000000
+      internalID: -8907865405177653468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_155
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffa8634445a22f70800000000000000
+      internalID: 9161066304632303605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_156
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 143
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d7358cd6190ac70800000000000000
+      internalID: 8980337557675146518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_157
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 143
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b991d91dc057e1520800000000000000
+      internalID: 2674703926621444507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_158
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 143
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85edda10bbc55fb00800000000000000
+      internalID: 861696861968129624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_159
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 143
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c83b57b152e8bb0800000000000000
+      internalID: -4931963742055068601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31583ee860f8e5230800000000000000
+      internalID: 3629495608037049619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_161
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6865e14f9d6791310800000000000000
+      internalID: 1376261839614006918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_162
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a38655aab380d30800000000000000
+      internalID: 4397830638890662492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_163
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 143
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e50d66842dc26780800000000000000
+      internalID: -8691158774113827352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_164
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 127
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4400d2eaa18e2fc40800000000000000
+      internalID: 5544749292535480388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_165
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 143
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a6110872115ff40800000000000000
+      internalID: 5761530159640439338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_166
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 143
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136d317a0fbacfdd0800000000000000
+      internalID: -2450895047112796623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_167
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcae1a576e5e2180800000000000000
+      internalID: -9138262795901555459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_168
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 143
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28699ee50fd1f0c70800000000000000
+      internalID: 8939396703575447170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_169
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 143
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd18aeebcd6b8ea0800000000000000
+      internalID: -5869476966697525773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_170
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 127
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178facb281e4c3e00800000000000000
+      internalID: 1025780680854534257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_171
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 127
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a55891d81157f00800000000000000
+      internalID: 1113815780560296464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_172
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 127
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff78e38839c75d80800000000000000
+      internalID: -8261913746819481608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_173
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 127
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776bc7f5efcef28d0800000000000000
+      internalID: -2868813860343859593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_174
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 127
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc87f8045a21aaf0800000000000000
+      internalID: -386981552561091390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_175
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 128
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef66352130e75a6b0800000000000000
+      internalID: -5285680035991951618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_176
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 127
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94965eb281b7cd50800000000000000
+      internalID: 6757564940989928606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_177
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 128
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad5c555817bccc30800000000000000
+      internalID: 4381077852663864745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_178
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 127
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d16fe053dac7220800000000000000
+      internalID: 2485051537797553494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_179
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 111
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f7fbfc8757fdfd0800000000000000
+      internalID: -2315002521703186682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_180
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 127
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26552821f8e831560800000000000000
+      internalID: 7283321767530222946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_181
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 127
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466ce7ccff6b89ac0800000000000000
+      internalID: -3848124671824312732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_182
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e8e2b6c10531b50800000000000000
+      internalID: 6562677164996464262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_183
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 127
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99323f34d304396b0800000000000000
+      internalID: -5290814505353010279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_184
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 127
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44330fc292571bf90800000000000000
+      internalID: -6939636731093175484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_185
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508800e438bf9d060800000000000000
+      internalID: 6978885638955239429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_186
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edfd3bac42cee410800000000000000
+      internalID: 1508356559761964512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_187
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708ae7a5d12dc9300800000000000000
+      internalID: 260313901994780679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_188
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 111
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7da14832c304a520800000000000000
+      internalID: 2712297008286248314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_189
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 111
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e002e48a3177ad40800000000000000
+      internalID: 5595565558182576358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_190
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45d96f352632f190800000000000000
+      internalID: -7930216460240431794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_191
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 111
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426c8a34ee626b4f0800000000000000
+      internalID: -813419877914589660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_192
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a816f295419aa270800000000000000
+      internalID: 8262576194368968864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_193
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 111
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d2646a93a2cadf0800000000000000
+      internalID: -167712659028431590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_194
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 95
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f837f93f330518b0800000000000000
+      internalID: -5182232226129561354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_195
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 111
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fdf98e1eaeea360800000000000000
+      internalID: 7182936711693852416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_196
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 111
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172b4f2df66904a20800000000000000
+      internalID: 3044598755127243377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_197
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20ec139fa0d26b90800000000000000
+      internalID: -7250002997607079889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_198
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 111
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ffde0d6836e6600800000000000000
+      internalID: 463417242347765614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_199
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 111
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2b50d7c81c0e5b0800000000000000
+      internalID: -5341056348924300571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_200
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055f90ceaac8ccd50800000000000000
+      internalID: 6758931806508676432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_201
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 95
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef89b06cc713b4e0800000000000000
+      internalID: -1967202445667233816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_202
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 95
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35bebacb50ec6e30800000000000000
+      internalID: 4498216812684424511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_203
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 95
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e1f0de6160e7c50800000000000000
+      internalID: 6664771194091150903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_204
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 95
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfca9c516792c6f0800000000000000
+      internalID: -665803350476140593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_205
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 96
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7195d78853c585130800000000000000
+      internalID: 3555693290801944855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_206
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 95
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c7d568c2b2d2ae0800000000000000
+      internalID: -1572553224649606101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_207
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 96
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abca9d2ed5fb5bd0800000000000000
+      internalID: -2640246421925999712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_208
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 95
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d744b589fe3f50620800000000000000
+      internalID: 2739864158703666301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_209
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df754962cd1620ca0800000000000000
+      internalID: -6052167351064569859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_210
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 95
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f95f1c4cb1cc880800000000000000
+      internalID: -8589459857420738766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_211
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 95
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563c1bce7142584f0800000000000000
+      internalID: -827215271378697371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_212
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac0ed217fa21bd70800000000000000
+      internalID: 9057067566280608936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_213
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 95
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555597d9333cbe140800000000000000
+      internalID: 4750104858445043029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_214
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 95
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf624c97f0552f70800000000000000
+      internalID: 9161818041363886007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_215
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b6938efb9ac8280800000000000000
+      internalID: -9039663710339503314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_216
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 79
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a356dbcb09cef30800000000000000
+      internalID: 4606215659198954124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_217
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 79
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45232e5e2a0ef13c0800000000000000
+      internalID: -4386540521789443500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_218
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98e24b6f25af15f0800000000000000
+      internalID: -783726187057583972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_219
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ef30173be59b540800000000000000
+      internalID: 5024150984096743057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_220
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 80
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9da1293b8d98fe0800000000000000
+      internalID: -1186178761073436215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_221
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9211dbb7075881d00800000000000000
+      internalID: 943650840092938537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_222
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 80
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4c9e36629b2a9a0800000000000000
+      internalID: -6223208160536443709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_223
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fd4157ad495d1a0800000000000000
+      internalID: -6785353597575700692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_224
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afcbffccb63b68d0800000000000000
+      internalID: -2852125754437939294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_225
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 79
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712006134ed3718f0800000000000000
+      internalID: -569918777548865001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_226
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 79
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac909a16b5f930360800000000000000
+      internalID: 7134721449514305994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_227
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 80
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955b6ed976ece41d0800000000000000
+      internalID: -3364524927173085863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_228
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 79
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed127e028a64a670800000000000000
+      internalID: 8549075099476696545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_229
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 79
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7b45484e455d2d0800000000000000
+      internalID: -3254601815255894089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_230
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438dea16266983460800000000000000
+      internalID: 7221687351778400308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_231
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0f1b5beab605820800000000000000
+      internalID: 2904940157770789107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_232
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784bff126755e4310800000000000000
+      internalID: 1391143300768969863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_233
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 63
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ba350a326d06e00800000000000000
+      internalID: 1036063362797251453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_234
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635211d489d9e5850800000000000000
+      internalID: 6367700200602019126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_235
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7c794f0311eea40800000000000000
+      internalID: 5399271905223493604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_236
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87b32894008fab0800000000000000
+      internalID: -4974225472713164632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_237
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 64
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ed993abf16efc50800000000000000
+      internalID: 6700901028983332386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_238
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 63
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f3966cc6da29b40800000000000000
+      internalID: 5445605582141210393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_239
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 47
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aaad71b2338a770800000000000000
+      internalID: 8622197746777631328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_240
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 63
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e2fde95a6cfefb0800000000000000
+      internalID: -4616252678394139011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_241
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 63
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088740b6edeb76e70800000000000000
+      internalID: 9108458633867589760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_242
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aefffe87d458bc0800000000000000
+      internalID: -3781531130289722875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_243
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 63
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8df7cb60a331490800000000000000
+      internalID: -7776808330932004655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_244
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 63
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f375bab3e07e070800000000000000
+      internalID: 8135486901308571549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_245
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04456909508a9a8c0800000000000000
+      internalID: -3987471253205789632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_246
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05c363bf3fbddb30800000000000000
+      internalID: 4313814298404308239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_247
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224d27dcf11c286c0800000000000000
+      internalID: -4142536364892433374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_248
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16d1b0ea9c7c2ae0800000000000000
+      internalID: -1572745165222586850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_249
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9f03b23e51d0ef0800000000000000
+      internalID: -140431947952227869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_250
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7265f8a81b5cd3b0800000000000000
+      internalID: -5486410084572110209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_251
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b752749bf2b9b5850800000000000000
+      internalID: 6366853127492543867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_252
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f3b678883c19520800000000000000
+      internalID: 2707159842181300019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_253
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa261b6dd2a0300800000000000000
+      internalID: 219037932003175098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_254
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 31
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c65425d92852790800000000000000
+      internalID: -7555489187642381278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_255
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 47
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f193e7671e554b980800000000000000
+      internalID: -8524093767861520097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_256
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 47
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5daa4ff536c55d30800000000000000
+      internalID: 4419656544552660315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_257
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520bb33f93ff40400800000000000000
+      internalID: 289636900417548325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_258
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 47
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2851e0ee71a032ad0800000000000000
+      internalID: -2728325851361962622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_259
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 47
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1352db020f015380800000000000000
+      internalID: -8984383280164744419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_260
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 31
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5eda0dae4c2d9d0800000000000000
+      internalID: -2750919909567502871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_261
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 31
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f887f8752ef0a70800000000000000
+      internalID: 8795497462974943057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_262
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb3b616f42f06f70800000000000000
+      internalID: 9178602463331826679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_263
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 31
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa374795eff835a30800000000000000
+      internalID: 4202861199852073903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_264
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 31
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0991aadb5a2c87660800000000000000
+      internalID: 7383865606181362064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_265
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 32
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2482c4348387a35e0800000000000000
+      internalID: -1929097307332270014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_266
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 31
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b96149e6c5985aa0800000000000000
+      internalID: -6172018607761823303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_267
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 32
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c84f653d84a4450800000000000000
+      internalID: 6073747119996701719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_268
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb5ed41d9e2a6ff0800000000000000
+      internalID: -42169994311738377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_269
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8846a80eb9f690c0800000000000000
+      internalID: -4569190177336571763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_270
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 31
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec2d349212aea960800000000000000
+      internalID: 7615202220610235627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_271
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 31
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab596e98a1770c800800000000000000
+      internalID: 630634903698314682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_272
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdcf071899ccac80800000000000000
+      internalID: -8310045557346284089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_273
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cff3542d5210bf0800000000000000
+      internalID: -359964910177747825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_274
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 31
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2967c84ff3d0e70800000000000000
+      internalID: 9082986343037309693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_275
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58de8a09b48b753d0800000000000000
+      internalID: -3217900774043882107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_276
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa6517b03a85ac00800000000000000
+      internalID: 911286441447090930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_277
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b2d43133becf420800000000000000
+      internalID: 2665263684096174922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_278
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ca8acabf991f590800000000000000
+      internalID: -7642157786458444736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_279
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 15
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7126504e110b04920800000000000000
+      internalID: 2972569344951018007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_280
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001f460e157ca7750800000000000000
+      internalID: 6303569782929420544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_281
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 15
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082a0e0b7231c77e0800000000000000
+      internalID: -1766515892643913088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_282
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb6b819a27bc2780800000000000000
+      internalID: -8706382586155668505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_283
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 15
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056ec66103ea0bc00800000000000000
+      internalID: 914422245914109520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_284
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e488c6bb6f8fd9c0800000000000000
+      internalID: -3900241059488693019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_285
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4f4ac21a4866bd0800000000000000
+      internalID: -2637274704005237526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_286
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de107608914dd470800000000000000
+      internalID: 8420958999451541206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_287
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d526c308bf0172ed0800000000000000
+      internalID: -2438962000823557539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_288
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211f90315df251cb0800000000000000
+      internalID: -4893952827874217710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_289
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 15
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9df6d5a25c97aa10800000000000000
+      internalID: 1920675644880387486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_290
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc6bf6e0774e0530800000000000000
+      internalID: 3823071683921276149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_291
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c87e6cb2b49b13c0800000000000000
+      internalID: -4387749916555970362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_292
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83899769dc7f9e00800000000000000
+      internalID: 1053698111015846794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_293
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ce2ccb0abba1480800000000000000
+      internalID: -8927617012272534401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_294
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15917e48ffc8fe850800000000000000
+      internalID: 6408495823845792081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_295
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd47d976fac790e0800000000000000
+      internalID: -2263117127775466058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_296
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024f6f531ad914450800000000000000
+      internalID: 6071307088392811552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_297
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11737d1559746da10800000000000000
+      internalID: 1933811796650964753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_298
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8744138fdc29b560800000000000000
+      internalID: 7329939207010666382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_299
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b283b9eb07a379600800000000000000
+      internalID: 474912541619468331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_300
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86db54b9373f4c930800000000000000
+      internalID: 4162719633449008488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_301
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314586f69c34f72d0800000000000000
+      internalID: -3278827471265836013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_302
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59979bed0a78f0030800000000000000
+      internalID: 3463135763472415125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16x16_303
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bbffa7744efe130800000000000000
+      internalID: 3598345622949706652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shadow_16x16_0: -1657378947949796692
+      Shadow_16x16_1: -6077764268738959807
+      Shadow_16x16_10: 8385035406755929655
+      Shadow_16x16_100: -3071019698118454800
+      Shadow_16x16_101: 1368135206907400378
+      Shadow_16x16_102: -5722103098554435556
+      Shadow_16x16_103: 6324048082707059340
+      Shadow_16x16_104: 2117861812111502454
+      Shadow_16x16_105: 4843545896441737667
+      Shadow_16x16_106: -3513876163099161231
+      Shadow_16x16_107: 702013241694198894
+      Shadow_16x16_108: -4097171511712007204
+      Shadow_16x16_109: -3064952128468026768
+      Shadow_16x16_11: 1299832741171192763
+      Shadow_16x16_110: 39415014847838545
+      Shadow_16x16_111: 1849365391580138702
+      Shadow_16x16_112: 7763090447573861206
+      Shadow_16x16_113: -6225356050265635973
+      Shadow_16x16_114: 7894773674796172767
+      Shadow_16x16_115: -8316754636541426803
+      Shadow_16x16_116: -8218480228077640608
+      Shadow_16x16_117: 6947984094548773178
+      Shadow_16x16_118: -1744381880924204821
+      Shadow_16x16_119: -6807525300875964490
+      Shadow_16x16_12: 3264240980895359978
+      Shadow_16x16_120: 84641075433596583
+      Shadow_16x16_121: -7846607599636640068
+      Shadow_16x16_122: 2241623411809413004
+      Shadow_16x16_123: -1181592216837476574
+      Shadow_16x16_124: 3161992022448158586
+      Shadow_16x16_125: 3832340372544180892
+      Shadow_16x16_126: 3796227356396105004
+      Shadow_16x16_127: 1307914351491398059
+      Shadow_16x16_128: -503532126524565962
+      Shadow_16x16_129: -1581591902079759317
+      Shadow_16x16_13: 4566194815224916135
+      Shadow_16x16_130: -7471718050547532075
+      Shadow_16x16_131: -5852240828033074764
+      Shadow_16x16_132: 4202537740490352474
+      Shadow_16x16_133: -4573269942194581628
+      Shadow_16x16_134: 5613877656441764171
+      Shadow_16x16_135: -2718877495190501080
+      Shadow_16x16_136: -8959835882746158140
+      Shadow_16x16_137: 4321282593034809783
+      Shadow_16x16_138: 2816331841782193763
+      Shadow_16x16_139: -9040388783063909894
+      Shadow_16x16_14: -3918152804584211714
+      Shadow_16x16_140: -4967217947831847080
+      Shadow_16x16_141: 1532211387585703802
+      Shadow_16x16_142: 618585544686644731
+      Shadow_16x16_143: 5617391561300740398
+      Shadow_16x16_144: 5135250760580257718
+      Shadow_16x16_145: 863075512881238703
+      Shadow_16x16_146: 7205721437778669479
+      Shadow_16x16_147: 3456430870831868663
+      Shadow_16x16_148: -3008594467301611061
+      Shadow_16x16_149: 6623670273884550394
+      Shadow_16x16_15: -7617913340360267698
+      Shadow_16x16_150: -7772021277263544604
+      Shadow_16x16_151: 379252501584577169
+      Shadow_16x16_152: -6784838175530682012
+      Shadow_16x16_153: 5933806387266234417
+      Shadow_16x16_154: -8907865405177653468
+      Shadow_16x16_155: 9161066304632303605
+      Shadow_16x16_156: 8980337557675146518
+      Shadow_16x16_157: 2674703926621444507
+      Shadow_16x16_158: 861696861968129624
+      Shadow_16x16_159: -4931963742055068601
+      Shadow_16x16_16: -3398443804141940210
+      Shadow_16x16_160: 3629495608037049619
+      Shadow_16x16_161: 1376261839614006918
+      Shadow_16x16_162: 4397830638890662492
+      Shadow_16x16_163: -8691158774113827352
+      Shadow_16x16_164: 5544749292535480388
+      Shadow_16x16_165: 5761530159640439338
+      Shadow_16x16_166: -2450895047112796623
+      Shadow_16x16_167: -9138262795901555459
+      Shadow_16x16_168: 8939396703575447170
+      Shadow_16x16_169: -5869476966697525773
+      Shadow_16x16_17: -2110083096968711469
+      Shadow_16x16_170: 1025780680854534257
+      Shadow_16x16_171: 1113815780560296464
+      Shadow_16x16_172: -8261913746819481608
+      Shadow_16x16_173: -2868813860343859593
+      Shadow_16x16_174: -386981552561091390
+      Shadow_16x16_175: -5285680035991951618
+      Shadow_16x16_176: 6757564940989928606
+      Shadow_16x16_177: 4381077852663864745
+      Shadow_16x16_178: 2485051537797553494
+      Shadow_16x16_179: -2315002521703186682
+      Shadow_16x16_18: -1837066104823118147
+      Shadow_16x16_180: 7283321767530222946
+      Shadow_16x16_181: -3848124671824312732
+      Shadow_16x16_182: 6562677164996464262
+      Shadow_16x16_183: -5290814505353010279
+      Shadow_16x16_184: -6939636731093175484
+      Shadow_16x16_185: 6978885638955239429
+      Shadow_16x16_186: 1508356559761964512
+      Shadow_16x16_187: 260313901994780679
+      Shadow_16x16_188: 2712297008286248314
+      Shadow_16x16_189: 5595565558182576358
+      Shadow_16x16_19: -7385236554191342944
+      Shadow_16x16_190: -7930216460240431794
+      Shadow_16x16_191: -813419877914589660
+      Shadow_16x16_192: 8262576194368968864
+      Shadow_16x16_193: -167712659028431590
+      Shadow_16x16_194: -5182232226129561354
+      Shadow_16x16_195: 7182936711693852416
+      Shadow_16x16_196: 3044598755127243377
+      Shadow_16x16_197: -7250002997607079889
+      Shadow_16x16_198: 463417242347765614
+      Shadow_16x16_199: -5341056348924300571
+      Shadow_16x16_2: 5825709543746221933
+      Shadow_16x16_20: -4459470731843438520
+      Shadow_16x16_200: 6758931806508676432
+      Shadow_16x16_201: -1967202445667233816
+      Shadow_16x16_202: 4498216812684424511
+      Shadow_16x16_203: 6664771194091150903
+      Shadow_16x16_204: -665803350476140593
+      Shadow_16x16_205: 3555693290801944855
+      Shadow_16x16_206: -1572553224649606101
+      Shadow_16x16_207: -2640246421925999712
+      Shadow_16x16_208: 2739864158703666301
+      Shadow_16x16_209: -6052167351064569859
+      Shadow_16x16_21: -4702741479490726086
+      Shadow_16x16_210: -8589459857420738766
+      Shadow_16x16_211: -827215271378697371
+      Shadow_16x16_212: 9057067566280608936
+      Shadow_16x16_213: 4750104858445043029
+      Shadow_16x16_214: 9161818041363886007
+      Shadow_16x16_215: -9039663710339503314
+      Shadow_16x16_216: 4606215659198954124
+      Shadow_16x16_217: -4386540521789443500
+      Shadow_16x16_218: -783726187057583972
+      Shadow_16x16_219: 5024150984096743057
+      Shadow_16x16_22: -5852796053728111631
+      Shadow_16x16_220: -1186178761073436215
+      Shadow_16x16_221: 943650840092938537
+      Shadow_16x16_222: -6223208160536443709
+      Shadow_16x16_223: -6785353597575700692
+      Shadow_16x16_224: -2852125754437939294
+      Shadow_16x16_225: -569918777548865001
+      Shadow_16x16_226: 7134721449514305994
+      Shadow_16x16_227: -3364524927173085863
+      Shadow_16x16_228: 8549075099476696545
+      Shadow_16x16_229: -3254601815255894089
+      Shadow_16x16_23: 5105678447716984788
+      Shadow_16x16_230: 7221687351778400308
+      Shadow_16x16_231: 2904940157770789107
+      Shadow_16x16_232: 1391143300768969863
+      Shadow_16x16_233: 1036063362797251453
+      Shadow_16x16_234: 6367700200602019126
+      Shadow_16x16_235: 5399271905223493604
+      Shadow_16x16_236: -4974225472713164632
+      Shadow_16x16_237: 6700901028983332386
+      Shadow_16x16_238: 5445605582141210393
+      Shadow_16x16_239: 8622197746777631328
+      Shadow_16x16_24: 6391099099189030704
+      Shadow_16x16_240: -4616252678394139011
+      Shadow_16x16_241: 9108458633867589760
+      Shadow_16x16_242: -3781531130289722875
+      Shadow_16x16_243: -7776808330932004655
+      Shadow_16x16_244: 8135486901308571549
+      Shadow_16x16_245: -3987471253205789632
+      Shadow_16x16_246: 4313814298404308239
+      Shadow_16x16_247: -4142536364892433374
+      Shadow_16x16_248: -1572745165222586850
+      Shadow_16x16_249: -140431947952227869
+      Shadow_16x16_25: -6689915817575178855
+      Shadow_16x16_250: -5486410084572110209
+      Shadow_16x16_251: 6366853127492543867
+      Shadow_16x16_252: 2707159842181300019
+      Shadow_16x16_253: 219037932003175098
+      Shadow_16x16_254: -7555489187642381278
+      Shadow_16x16_255: -8524093767861520097
+      Shadow_16x16_256: 4419656544552660315
+      Shadow_16x16_257: 289636900417548325
+      Shadow_16x16_258: -2728325851361962622
+      Shadow_16x16_259: -8984383280164744419
+      Shadow_16x16_26: 4473313715477404703
+      Shadow_16x16_260: -2750919909567502871
+      Shadow_16x16_261: 8795497462974943057
+      Shadow_16x16_262: 9178602463331826679
+      Shadow_16x16_263: 4202861199852073903
+      Shadow_16x16_264: 7383865606181362064
+      Shadow_16x16_265: -1929097307332270014
+      Shadow_16x16_266: -6172018607761823303
+      Shadow_16x16_267: 6073747119996701719
+      Shadow_16x16_268: -42169994311738377
+      Shadow_16x16_269: -4569190177336571763
+      Shadow_16x16_27: 8135021898490040215
+      Shadow_16x16_270: 7615202220610235627
+      Shadow_16x16_271: 630634903698314682
+      Shadow_16x16_272: -8310045557346284089
+      Shadow_16x16_273: -359964910177747825
+      Shadow_16x16_274: 9082986343037309693
+      Shadow_16x16_275: -3217900774043882107
+      Shadow_16x16_276: 911286441447090930
+      Shadow_16x16_277: 2665263684096174922
+      Shadow_16x16_278: -7642157786458444736
+      Shadow_16x16_279: 2972569344951018007
+      Shadow_16x16_28: -9038665469925899524
+      Shadow_16x16_280: 6303569782929420544
+      Shadow_16x16_281: -1766515892643913088
+      Shadow_16x16_282: -8706382586155668505
+      Shadow_16x16_283: 914422245914109520
+      Shadow_16x16_284: -3900241059488693019
+      Shadow_16x16_285: -2637274704005237526
+      Shadow_16x16_286: 8420958999451541206
+      Shadow_16x16_287: -2438962000823557539
+      Shadow_16x16_288: -4893952827874217710
+      Shadow_16x16_289: 1920675644880387486
+      Shadow_16x16_29: 6619343506454640651
+      Shadow_16x16_290: 3823071683921276149
+      Shadow_16x16_291: -4387749916555970362
+      Shadow_16x16_292: 1053698111015846794
+      Shadow_16x16_293: -8927617012272534401
+      Shadow_16x16_294: 6408495823845792081
+      Shadow_16x16_295: -2263117127775466058
+      Shadow_16x16_296: 6071307088392811552
+      Shadow_16x16_297: 1933811796650964753
+      Shadow_16x16_298: 7329939207010666382
+      Shadow_16x16_299: 474912541619468331
+      Shadow_16x16_3: 1020319791845067455
+      Shadow_16x16_30: 5513402890566903427
+      Shadow_16x16_300: 4162719633449008488
+      Shadow_16x16_301: -3278827471265836013
+      Shadow_16x16_302: 3463135763472415125
+      Shadow_16x16_303: 3598345622949706652
+      Shadow_16x16_31: 1601259233931998210
+      Shadow_16x16_32: 6073896798343376485
+      Shadow_16x16_33: -6698298745086079542
+      Shadow_16x16_34: -6504226105933740997
+      Shadow_16x16_35: -8585690860056579311
+      Shadow_16x16_36: -5049151720086089596
+      Shadow_16x16_37: -828511170753688327
+      Shadow_16x16_38: -439965204897584492
+      Shadow_16x16_39: -3523148422637198241
+      Shadow_16x16_4: 3321957341386157373
+      Shadow_16x16_40: 2015679132510289490
+      Shadow_16x16_41: -5905804651563302167
+      Shadow_16x16_42: 6503396928277067484
+      Shadow_16x16_43: -215677173077813009
+      Shadow_16x16_44: 4632532296947380798
+      Shadow_16x16_45: 2131069024758903288
+      Shadow_16x16_46: 7089516226108076258
+      Shadow_16x16_47: -5146070806291957121
+      Shadow_16x16_48: 2061774677782361204
+      Shadow_16x16_49: -3535805024762854783
+      Shadow_16x16_5: -2323269353288699599
+      Shadow_16x16_50: -2646167927123352201
+      Shadow_16x16_51: 7011967672866929798
+      Shadow_16x16_52: 3209147595605946563
+      Shadow_16x16_53: -5839228546278908732
+      Shadow_16x16_54: -1128361063152095964
+      Shadow_16x16_55: 7961874266610449416
+      Shadow_16x16_56: 4884655064863372344
+      Shadow_16x16_57: -3959618870202369194
+      Shadow_16x16_58: -6635093337560532812
+      Shadow_16x16_59: 2059449312958715407
+      Shadow_16x16_6: 7759694244549767500
+      Shadow_16x16_60: 1897804987044705443
+      Shadow_16x16_61: 3008475185332726105
+      Shadow_16x16_62: 6463571569122697855
+      Shadow_16x16_63: 3125615658462006202
+      Shadow_16x16_64: -5212276904322363206
+      Shadow_16x16_65: 1571342985433038247
+      Shadow_16x16_66: -6436694881565945105
+      Shadow_16x16_67: -1573273501225129961
+      Shadow_16x16_68: 1187647380765374827
+      Shadow_16x16_69: 7941906830061276939
+      Shadow_16x16_7: 1377042591468581382
+      Shadow_16x16_70: 1717288374624582985
+      Shadow_16x16_71: -9057365990962742667
+      Shadow_16x16_72: -3938675417474638071
+      Shadow_16x16_73: 6102432732004758304
+      Shadow_16x16_74: -6891571157344469227
+      Shadow_16x16_75: -2195224478449181690
+      Shadow_16x16_76: -8256884010335954174
+      Shadow_16x16_77: 6932361347122549938
+      Shadow_16x16_78: 7921311190376204917
+      Shadow_16x16_79: 1220458121071451955
+      Shadow_16x16_8: 2278535347836906877
+      Shadow_16x16_80: 1308586089165248756
+      Shadow_16x16_81: 7004943568891567557
+      Shadow_16x16_82: 8286135540517000569
+      Shadow_16x16_83: -9098861018977037921
+      Shadow_16x16_84: -4263514406431815679
+      Shadow_16x16_85: -9049531670171225253
+      Shadow_16x16_86: -8312688420470801540
+      Shadow_16x16_87: -1207257359640882635
+      Shadow_16x16_88: 2107603620413447925
+      Shadow_16x16_89: -6588087798802442644
+      Shadow_16x16_9: -4945353695535830838
+      Shadow_16x16_90: -2198498758455202921
+      Shadow_16x16_91: 2544333288486249142
+      Shadow_16x16_92: -5798470195670390296
+      Shadow_16x16_93: 7734118043404546866
+      Shadow_16x16_94: 7918990556783041317
+      Shadow_16x16_95: 843688254307105704
+      Shadow_16x16_96: -4677967117965432752
+      Shadow_16x16_97: 4984064872757116439
+      Shadow_16x16_98: 65547581443344152
+      Shadow_16x16_99: 1478620835180714169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
